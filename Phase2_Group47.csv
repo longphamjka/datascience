@@ -1,0 +1,2493 @@
+brand,model,year,title_status,mileage,color,state,price
+toyota,cruiser,2008,clean vehicle,274117.0,black,new jersey,6300
+ford,se,2011,clean vehicle,190552.0,silver,tennessee,2899
+dodge,mpv,2018,clean vehicle,39590.0,silver,georgia,5350
+ford,door,2014,clean vehicle,64146.0,blue,virginia,25000
+chevrolet,1500,2018,clean vehicle,6654.0,red,florida,27700
+dodge,mpv,2018,clean vehicle,45561.0,white,texas,5700
+chevrolet,pk,2010,clean vehicle,149050.0,black,georgia,7300
+gmc,door,2017,clean vehicle,23525.0,gray,california,13350
+chevrolet,malibu,2018,clean vehicle,9371.0,silver,florida,14600
+ford,mpv,2017,clean vehicle,63418.0,black,texas,5250
+dodge,coupe,2009,clean vehicle,107856.0,orange,georgia,10400
+gmc,mpv,2017,clean vehicle,39650.0,white,california,12920
+chevrolet,1500,2018,clean vehicle,22909.0,black,tennessee,31900
+chrysler,wagon,2017,clean vehicle,138650.0,gray,texas,5430
+ford,door,2013,clean vehicle,100757.0,black,virginia,20700
+gmc,door,2017,clean vehicle,25747.0,white,california,12710
+kia,forte,2018,clean vehicle,46194.0,blue,north carolina,5200
+buick,encore,2018,clean vehicle,20002.0,red,tennessee,16500
+ford,mpv,2017,clean vehicle,35714.0,white,texas,5210
+ford,door,2013,clean vehicle,54380.0,gray,virginia,38100
+gmc,door,2017,clean vehicle,30114.0,white,california,12520
+kia,forte,2018,clean vehicle,38823.0,black,north carolina,7300
+chevrolet,door,2015,clean vehicle,61578.0,black,ohio,15000
+ford,mpv,2017,clean vehicle,46010.0,blue,texas,6180
+ford,door,2013,clean vehicle,105510.0,silver,virginia,20800
+gmc,door,2017,clean vehicle,28040.0,silver,california,11900
+kia,sorento,2020,clean vehicle,11451.0,blue,north carolina,21500
+buick,door,2014,clean vehicle,31039.0,brown,ohio,12000
+ford,doors,2017,clean vehicle,44174.0,white,texas,4190
+ford,chassis,2008,clean vehicle,93698.0,white,tennessee,13000
+gmc,door,2017,clean vehicle,26364.0,silver,california,12710
+infiniti,q70,2016,clean vehicle,71967.0,gray,new york,18500
+chevrolet,camaro,1973,clean vehicle,46226.0,red,pennsylvania,29800
+ford,mpv,2017,clean vehicle,37792.0,no_color,texas,5330
+ford,convertible,2003,clean vehicle,58817.0,gray,virginia,13000
+gmc,door,2017,clean vehicle,27965.0,black,california,11900
+mercedes-benz,vans,2016,clean vehicle,110907.0,white,new york,16600
+chevrolet,1500,2018,clean vehicle,2430.0,white,tennessee,19200
+ford,mpv,2017,clean vehicle,32366.0,gold,texas,7320
+ford,pk,2003,clean vehicle,176567.0,white,tennessee,7000
+gmc,door,2017,clean vehicle,30049.0,white,california,12710
+mercedes-benz,vans,2016,clean vehicle,97983.0,white,new york,16600
+chevrolet,1500,2018,clean vehicle,30442.0,red,tennessee,30500
+ford,mpv,2017,clean vehicle,38123.0,red,texas,6330
+ford,srw,2017,clean vehicle,15273.0,black,pennsylvania,55000
+gmc,door,2017,clean vehicle,28972.0,black,california,12520
+jeep,compass,2019,clean vehicle,30061.0,red,north carolina,16200
+chevrolet,malibu,2017,clean vehicle,18414.0,white,tennessee,19000
+dodge,mpv,2017,clean vehicle,46829.0,gray,texas,5580
+ford,srw,2017,clean vehicle,26241.0,black,pennsylvania,54000
+gmc,mpv,2017,clean vehicle,39886.0,red,california,12710
+jeep,compass,2019,clean vehicle,31594.0,silver,north carolina,16000
+buick,enclave,2017,clean vehicle,32107.0,no_color,tennessee,27000
+ford,mpv,2017,clean vehicle,44794.0,gray,texas,7760
+chrysler,300,2019,clean vehicle,42648.0,gray,south carolina,19600
+gmc,mpv,2017,clean vehicle,39165.0,silver,california,12920
+jeep,cherokee,2019,clean vehicle,38355.0,charcoal,north carolina,20000
+buick,door,2017,clean vehicle,46766.0,silver,florida,18100
+chrysler,pacifica,2020,clean vehicle,2473.0,white,ohio,23000
+chrysler,300,2019,clean vehicle,38586.0,gray,south carolina,18500
+gmc,door,2017,clean vehicle,27842.0,white,california,13490
+jeep,cherokee,2019,clean vehicle,31156.0,white,north carolina,20700
+chevrolet,door,2017,clean vehicle,52435.0,black,florida,17800
+ford,door,2017,clean vehicle,29942.0,black,texas,6650
+chrysler,pacifica,2019,clean vehicle,25281.0,red,south carolina,29100
+gmc,door,2017,clean vehicle,32504.0,silver,california,12710
+jeep,cherokee,2019,clean vehicle,28649.0,silver,north carolina,21100
+chevrolet,door,2017,clean vehicle,35200.0,white,florida,18600
+ford,door,2017,clean vehicle,25602.0,silver,texas,4340
+chrysler,300,2019,clean vehicle,34801.0,gray,south carolina,19300
+gmc,door,2017,clean vehicle,31009.0,black,california,12780
+jeep,compass,2019,clean vehicle,35595.0,charcoal,north carolina,15800
+bmw,x3,2017,clean vehicle,23765.0,black,tennessee,29400
+ford,door,2017,clean vehicle,31792.0,black,texas,4430
+chrysler,300,2019,clean vehicle,33135.0,gray,south carolina,19400
+gmc,door,2017,clean vehicle,30636.0,red,california,12520
+jeep,compass,2019,clean vehicle,34502.0,red,north carolina,15900
+buick,door,2017,clean vehicle,25434.0,white,florida,26400
+ford,door,2017,clean vehicle,36732.0,black,texas,4140
+chrysler,300,2019,clean vehicle,41792.0,gray,south carolina,18300
+gmc,door,2017,clean vehicle,31992.0,black,california,12520
+jeep,compass,2019,clean vehicle,32501.0,red,north carolina,17900
+chevrolet,camaro,2017,clean vehicle,28395.0,black,florida,18300
+ford,door,2017,clean vehicle,36139.0,blue,texas,4640
+ford,door,2016,clean vehicle,84413.0,black,pennsylvania,24000
+gmc,door,2017,clean vehicle,33457.0,white,california,13200
+jeep,compass,2019,clean vehicle,29245.0,gray,north carolina,18000
+chevrolet,equinox,2017,clean vehicle,12783.0,silver,florida,14900
+ford,door,2017,clean vehicle,17617.0,white,texas,4140
+ford,door,2016,clean vehicle,36855.0,black,pennsylvania,11500
+ford,door,2017,clean vehicle,110316.0,white,texas,9110
+chrysler,door,2015,clean vehicle,88227.0,black,pennsylvania,7350
+bmw,door,2017,clean vehicle,17626.0,gray,michigan,24500
+ford,door,2017,clean vehicle,120353.0,white,texas,9300
+dodge,challenger,2015,clean vehicle,3641.0,white,pennsylvania,39800
+bmw,m,2017,clean vehicle,29355.0,blue,michigan,53500
+ford,door,2017,clean vehicle,39333.0,black,texas,15110
+ford,door,2015,clean vehicle,42930.0,white,pennsylvania,34000
+chevrolet,colorado,2017,clean vehicle,24993.0,black,michigan,26502
+ford,mpv,2017,clean vehicle,44929.0,black,texas,5990
+ford,focus,2018,clean vehicle,16971.0,black,south carolina,13600
+cadillac,door,2017,clean vehicle,35598.0,gray,michigan,23605
+ford,mpv,2017,clean vehicle,40455.0,white,texas,10780
+ford,focus,2018,clean vehicle,23164.0,white,south carolina,13800
+cadillac,door,2017,clean vehicle,19011.0,no_color,michigan,25201
+ford,mpv,2017,clean vehicle,45191.0,white,texas,7070
+ford,focus,2018,clean vehicle,21405.0,white,south carolina,8700
+chevrolet,malibu,2017,clean vehicle,19117.0,no_color,michigan,18003
+ford,door,2017,clean vehicle,42104.0,black,texas,8530
+dodge,durango,2018,clean vehicle,49496.0,white,south carolina,23100
+cadillac,door,2017,clean vehicle,32418.0,white,michigan,24500
+ford,mpv,2017,clean vehicle,29882.0,white,texas,7000
+ford,escape,2018,clean vehicle,34819.0,gold,south carolina,17000
+chevrolet,1500,2017,clean vehicle,31923.0,white,michigan,34002
+ford,mpv,2017,clean vehicle,29168.0,gray,texas,6980
+dodge,charger,2018,clean vehicle,28307.0,silver,michigan,25000
+chevrolet,colorado,2017,clean vehicle,33791.0,turquoise,michigan,20802
+ford,door,2017,clean vehicle,21770.0,black,texas,9200
+chrysler,pacifica,2017,clean vehicle,18375.0,gray,michigan,26500
+chevrolet,colorado,2017,clean vehicle,14158.0,gray,michigan,24802
+ford,mpv,2017,clean vehicle,30318.0,black,texas,7070
+ford,door,2017,clean vehicle,48086.0,red,south carolina,28500
+cadillac,door,2017,clean vehicle,26562.0,black,michigan,47500
+ford,explorer,2017,clean vehicle,57611.0,black,south carolina,23500
+chevrolet,colorado,2017,clean vehicle,47357.0,black,michigan,23505
+ford,door,2017,clean vehicle,84916.0,white,texas,10940
+ford,f-150,2017,clean vehicle,24521.0,gray,south carolina,32100
+chevrolet,3500,2018,clean vehicle,16105.0,black,washington,53000
+ford,mpv,2017,clean vehicle,35888.0,gold,texas,6830
+dodge,caravan,2017,clean vehicle,59537.0,gray,south carolina,11900
+chevrolet,1500,2017,clean vehicle,55222.0,black,michigan,26414
+dodge,mpv,2018,clean vehicle,32870.0,gray,florida,4160
+chevrolet,door,2017,clean vehicle,39687.0,silver,michigan,19405
+dodge,mpv,2018,clean vehicle,47085.0,silver,florida,5690
+chrysler,van,2017,clean vehicle,32224.0,silver,south carolina,25900
+chevrolet,1500,2017,clean vehicle,51293.0,beige,michigan,24005
+dodge,mpv,2018,clean vehicle,42989.0,gray,florida,5090
+chrysler,300,2017,clean vehicle,31311.0,gray,arizona,19500
+chevrolet,1500,2017,clean vehicle,46091.0,white,michigan,32012
+dodge,dart,2016,clean vehicle,49033.0,black,michigan,6800
+dodge,mpv,2018,clean vehicle,33957.0,gray,florida,4260
+dodge,van,2008,salvage insurance,177948.0,orange,utah,0
+chevrolet,2500,2017,clean vehicle,19845.0,silver,michigan,31802
+dodge,doors,2018,clean vehicle,38910.0,black,florida,7210
+dodge,door,2014,salvage insurance,123660.0,silver,utah,0
+chevrolet,1500,2017,clean vehicle,31234.0,black,michigan,28402
+dodge,doors,2018,clean vehicle,36767.0,gray,florida,6800
+cadillac,esv,2015,clean vehicle,57932.0,gray,washington,33300
+dodge,mpv,2018,clean vehicle,19420.0,white,florida,10780
+ford,cutaway,2014,clean vehicle,204155.0,beige,pennsylvania,6700
+chevrolet,1500,2016,clean vehicle,93493.0,white,washington,20000
+chrysler,doors,2018,clean vehicle,20942.0,gray,florida,6440
+ford,door,2016,clean vehicle,86826.0,gray,south carolina,19900
+chevrolet,door,2015,clean vehicle,45787.0,white,washington,37000
+dodge,mpv,2018,clean vehicle,50765.0,red,florida,4040
+ford,explorer,2016,clean vehicle,62774.0,black,south carolina,22300
+chevrolet,door,2011,clean vehicle,76326.0,gray,washington,31200
+dodge,mpv,2018,clean vehicle,39029.0,white,florida,4290
+ford,el,2016,clean vehicle,72885.0,silver,south carolina,22800
+cadillac,door,2016,clean vehicle,46467.0,white,michigan,19002
+dodge,mpv,2018,clean vehicle,6743.0,gray,florida,4160
+ford,edge,2016,clean vehicle,33514.0,white,south carolina,18500
+bmw,series,2016,clean vehicle,39917.0,blue,michigan,39000
+dodge,doors,2018,clean vehicle,32504.0,black,florida,6060
+ford,door,2016,clean vehicle,77638.0,white,south carolina,28800
+bmw,series,2016,clean vehicle,31727.0,gray,michigan,40000
+dodge,doors,2018,clean vehicle,52966.0,silver,florida,6140
+ford,flex,2016,clean vehicle,24157.0,gray,south carolina,21000
+buick,door,2016,clean vehicle,51393.0,beige,michigan,20105
+dodge,doors,2018,clean vehicle,35461.0,white,florida,6760
+ford,door,2014,clean vehicle,47055.0,brown,pennsylvania,25800
+bmw,series,2016,clean vehicle,33110.0,black,michigan,39000
+dodge,mpv,2018,clean vehicle,39721.0,black,florida,5470
+ford,door,2014,clean vehicle,75785.0,black,pennsylvania,14600
+chevrolet,1500,2016,clean vehicle,33624.0,black,michigan,24502
+ford,door,2017,clean vehicle,42289.0,white,texas,15110
+ford,door,2014,clean vehicle,79422.0,white,new york,7900
+chevrolet,door,2016,clean vehicle,28844.0,blue,michigan,27305
+ford,door,2017,clean vehicle,66582.0,white,texas,15290
+ford,door,2015,clean vehicle,61436.0,silver,south carolina,26500
+chevrolet,door,2016,clean vehicle,58303.0,silver,michigan,25502
+ford,mpv,2017,clean vehicle,55618.0,white,texas,7320
+chevrolet,van,2009,clean vehicle,261648.0,white,michigan,3800
+chevrolet,door,2016,clean vehicle,33045.0,white,michigan,24502
+ford,door,2017,clean vehicle,40747.0,white,texas,4140
+dodge,pk,2002,clean vehicle,185460.0,black,michigan,1400
+cadillac,srx,2016,clean vehicle,26667.0,gray,michigan,18402
+ford,door,2017,clean vehicle,37176.0,white,texas,4160
+chrysler,door,2000,salvage insurance,231240.0,red,north carolina,175
+chevrolet,colorado,2016,clean vehicle,18006.0,brown,michigan,24503
+ford,door,2017,clean vehicle,72445.0,white,texas,15840
+ford,door,2014,clean vehicle,123355.0,black,south carolina,20500
+chevrolet,1500,2016,clean vehicle,44116.0,silver,michigan,21003
+ford,door,2017,clean vehicle,60219.0,red,texas,4200
+ford,door,2011,clean vehicle,135077.0,red,georgia,17400
+chevrolet,door,2016,clean vehicle,32058.0,black,michigan,32001
+ford,mpv,2017,clean vehicle,76858.0,white,texas,0
+ford,cab,2011,clean vehicle,309564.0,white,south carolina,15700
+chevrolet,door,2016,clean vehicle,33928.0,white,michigan,31009
+ford,wagon,2017,clean vehicle,90618.0,white,texas,3740
+dodge,pickup,2001,clean vehicle,109360.0,white,georgia,5000
+chevrolet,door,2016,clean vehicle,71809.0,white,michigan,31002
+ford,doors,2017,clean vehicle,31563.0,gray,texas,3160
+dodge,pickup,2005,clean vehicle,219823.0,gray,south carolina,8600
+chevrolet,malibu,2018,clean vehicle,42090.0,gray,texas,6000
+ford,door,2017,clean vehicle,126523.0,white,texas,12990
+chevrolet,vehicl,2020,salvage insurance,7232.0,black,kentucky,25
+buick,encore,2017,clean vehicle,60171.0,black,texas,13200
+ford,wagon,2017,clean vehicle,209915.0,white,texas,4410
+chrysler,door,2005,salvage insurance,151815.0,silver,massachusetts,25
+chevrolet,camaro,2020,clean vehicle,13826.0,green,georgia,22500
+ford,mpv,2017,clean vehicle,55854.0,white,texas,7420
+ford,door,2016,clean vehicle,45757.0,silver,arizona,13500
+chevrolet,trax,2020,clean vehicle,16545.0,white,georgia,15500
+ford,door,2017,clean vehicle,112893.0,white,texas,3540
+ford,door,2016,clean vehicle,126802.0,no_color,florida,17000
+chevrolet,tahoe,2020,clean vehicle,13303.0,white,georgia,45500
+ford,door,2017,clean vehicle,34061.0,silver,texas,4130
+ford,door,2015,clean vehicle,70251.0,white,arizona,15700
+chevrolet,tahoe,2020,clean vehicle,13679.0,gray,georgia,45500
+ford,doors,2017,clean vehicle,42426.0,gray,texas,4130
+dodge,door,2012,clean vehicle,66452.0,black,pennsylvania,15500
+chevrolet,trax,2020,clean vehicle,18221.0,white,georgia,16300
+ford,mpv,2017,clean vehicle,41455.0,white,texas,4530
+dodge,door,2011,clean vehicle,35275.0,black,pennsylvania,15600
+chevrolet,tahoe,2020,clean vehicle,13885.0,white,georgia,45500
+ford,door,2017,clean vehicle,38815.0,gray,texas,4100
+dodge,door,2011,clean vehicle,162281.0,white,pennsylvania,18200
+chevrolet,door,2013,clean vehicle,56479.0,black,texas,10200
+ford,doors,2017,clean vehicle,61027.0,black,texas,4080
+ford,van,2014,clean vehicle,178703.0,white,florida,5700
+chevrolet,3500,2014,clean vehicle,173469.0,white,texas,10200
+ford,door,2017,clean vehicle,37321.0,white,texas,5000
+ford,door,2014,clean vehicle,112789.0,white,florida,1700
+bmw,door,2011,clean vehicle,80394.0,gray,texas,6200
+ford,door,2016,clean vehicle,68142.0,white,texas,3650
+dodge,door,2014,clean vehicle,74203.0,white,arizona,10500
+chevrolet,2500,2018,clean vehicle,57604.0,white,georgia,43500
+dodge,van,2016,clean vehicle,87229.0,silver,texas,4610
+ford,door,2012,clean vehicle,90711.0,white,florida,3450
+chevrolet,suburban,2018,clean vehicle,11135.0,silver,georgia,38500
+ford,mpv,2016,clean vehicle,66781.0,silver,texas,6810
+ford,cargo,2011,clean vehicle,190994.0,white,florida,2900
+chevrolet,2500,2018,clean vehicle,56007.0,white,georgia,43500
+ford,mpv,2016,clean vehicle,32486.0,white,texas,4450
+ford,door,2011,clean vehicle,195908.0,white,florida,5800
+chevrolet,equinox,2018,clean vehicle,18020.0,silver,georgia,16500
+dodge,mpv,2016,clean vehicle,83262.0,white,texas,4240
+ford,pickup,2008,clean vehicle,62015.0,white,pennsylvania,26500
+chevrolet,equinox,2017,clean vehicle,36421.0,silver,georgia,13700
+ford,door,2016,clean vehicle,73321.0,white,texas,8600
+ford,chassis,2008,clean vehicle,132379.0,white,florida,8000
+chevrolet,equinox,2017,clean vehicle,28013.0,silver,georgia,14200
+ford,mpv,2016,clean vehicle,33291.0,silver,texas,7040
+ford,chassis,2005,clean vehicle,225236.0,no_color,florida,4700
+chevrolet,door,2016,clean vehicle,43176.0,red,georgia,30851
+ford,mpv,2016,clean vehicle,36876.0,silver,texas,4880
+dodge,pickup,2006,clean vehicle,111782.0,silver,pennsylvania,14500
+chevrolet,door,2017,clean vehicle,110489.0,brown,nebraska,7600
+ford,door,2016,clean vehicle,84035.0,white,texas,13270
+ford,door,2012,clean vehicle,131101.0,gray,arizona,12800
+ford,door,2016,clean vehicle,101380.0,white,texas,9280
+ford,van,2003,clean vehicle,142027.0,white,florida,900
+ford,door,2016,clean vehicle,111476.0,gray,texas,7560
+ford,drw,2011,clean vehicle,76897.0,white,pennsylvania,19500
+chevrolet,malibu,2019,clean vehicle,15780.0,white,washington,17100
+ford,door,2016,clean vehicle,31944.0,white,texas,8020
+ford,fiesta,2019,clean vehicle,18937.0,black,missouri,10300
+chevrolet,van,2019,clean vehicle,9706.0,white,washington,22600
+ford,doors,2016,clean vehicle,57289.0,gray,texas,10480
+ford,fiesta,2019,clean vehicle,19956.0,silver,missouri,10300
+chevrolet,van,2019,clean vehicle,6075.0,white,washington,22700
+ford,door,2016,clean vehicle,21034.0,gray,texas,7410
+ford,fiesta,2019,clean vehicle,22881.0,gray,missouri,10300
+chevrolet,door,2013,clean vehicle,167600.0,gray,washington,10300
+ford,door,2016,clean vehicle,37252.0,white,texas,7570
+dodge,challenger,2019,clean vehicle,10944.0,blue,ohio,67000
+chevrolet,impala,2019,clean vehicle,27601.0,white,texas,18900
+ford,doors,2019,clean vehicle,15958.0,white,florida,12560
+dodge,durango,2019,clean vehicle,32251.0,white,ohio,33000
+chevrolet,impala,2019,clean vehicle,25809.0,black,texas,18300
+ford,cab,2017,clean vehicle,30553.0,white,texas,11760
+dodge,durango,2019,clean vehicle,26549.0,red,ohio,31700
+dodge,door,2007,salvage insurance,160528.0,dark blue,minnesota,25
+ford,door,2000,salvage insurance,124969.0,black,oklahoma,0
+ford,doors,2019,clean vehicle,15854.0,gray,florida,7340
+hyundai,door,2017,clean vehicle,56690.0,white,connecticut,8200
+kia,door,2013,clean vehicle,97142.0,silver,missouri,3000
+jeep,mpv,2019,clean vehicle,10185.0,black,georgia,6530
+mazda,door,2009,salvage insurance,117541.0,gray,indiana,0
+kia,soul,2019,clean vehicle,23514.0,silver,california,12700
+kia,sorento,2017,clean vehicle,86959.0,gray,north carolina,13800
+chevrolet,pickup,1998,salvage insurance,258631.0,gray,texas,0
+ford,door,2017,salvage insurance,67279.0,gray,virginia,725
+ford,doors,2019,clean vehicle,16482.0,gray,florida,7400
+hyundai,elantra,2017,clean vehicle,35687.0,red,connecticut,9800
+honda,door,2003,salvage insurance,152608.0,white,arkansas,0
+jeep,mpv,2019,clean vehicle,17911.0,green,georgia,4400
+infiniti,mpv,2019,clean vehicle,21278.0,blue,florida,10330
+chevrolet,door,2011,salvage insurance,47269.0,black,arkansas,1800
+chevrolet,door,2008,salvage insurance,172102.0,blue,texas,50
+ford,wagon,2006,clean vehicle,26914.0,no_color,florida,720
+ford,door,2017,clean vehicle,67217.0,red,michigan,22800
+ford,door,2017,salvage insurance,78698.0,black,california,2500
+ford,door,2003,salvage insurance,246065.0,gold,kansas,0
+gmc,mpv,2017,clean vehicle,41961.0,black,virginia,9190
+jeep,mpv,2019,clean vehicle,13273.0,red,michigan,10900
+infiniti,mpv,2019,clean vehicle,31713.0,black,florida,10400
+chevrolet,door,2004,salvage insurance,0.0,maroon,wyoming,0
+chevrolet,door,2003,salvage insurance,194673.0,gray,texas,0
+chevrolet,pickup,2008,clean vehicle,325611.0,silver,florida,7320
+ford,f-150,2017,clean vehicle,50732.0,black,michigan,22809
+ford,van,1998,salvage insurance,186855.0,blue,california,0
+ford,door,2013,salvage insurance,94004.0,black,minnesota,0
+gmc,mpv,2017,clean vehicle,52904.0,silver,virginia,5520
+jeep,mpv,2019,clean vehicle,14195.0,orange,michigan,10900
+jeep,mpv,2019,clean vehicle,43965.0,red,florida,6330
+chevrolet,door,2009,salvage insurance,117059.0,black,colorado,0
+chevrolet,pickup,2010,salvage insurance,149189.0,white,colorado,25
+dodge,door,2007,clean vehicle,112182.0,red,florida,2320
+ford,door,2017,clean vehicle,49024.0,black,michigan,23702
+ford,chassis,1994,salvage insurance,0.0,green,california,0
+ford,door,1997,salvage insurance,203297.0,green,minnesota,0
+gmc,mpv,2017,clean vehicle,35821.0,silver,virginia,5520
+heartland,pioneer,2018,clean vehicle,1.0,gray,pennsylvania,4050
+infiniti,mpv,2019,clean vehicle,32611.0,brown,florida,14810
+chevrolet,door,2011,salvage insurance,105244.0,white,colorado,25
+chrysler,van,2008,clean vehicle,164048.0,red,florida,2960
+ford,door,2017,clean vehicle,46955.0,gray,michigan,24800
+ford,door,1996,salvage insurance,296860.0,green,california,0
+ford,door,2006,salvage insurance,203158.0,red,illinois,0
+gmc,mpv,2017,clean vehicle,70443.0,black,virginia,6270
+heartland,trail,2012,clean vehicle,1.0,white,pennsylvania,1880
+infiniti,mpv,2019,clean vehicle,18229.0,gray,florida,10050
+chevrolet,door,2014,salvage insurance,87673.0,red,colorado,225
+chevrolet,traverse,2018,clean vehicle,42941.0,black,missouri,26900
+chrysler,door,2007,clean vehicle,104405.0,gold,florida,1420
+ford,door,2017,clean vehicle,57186.0,black,michigan,27003
+ford,door,2002,salvage insurance,214800.0,black,south carolina,0
+ford,door,2004,salvage insurance,236980.0,gray,illinois,350
+gmc,mpv,2017,clean vehicle,59808.0,black,virginia,5600
+heartland,country,2011,clean vehicle,1.0,gray,pennsylvania,6680
+infiniti,mpv,2019,clean vehicle,20681.0,white,florida,10120
+chevrolet,door,2010,salvage insurance,137422.0,red,colorado,0
+ford,door,2015,clean vehicle,102700.0,white,georgia,3920
+ford,door,2017,clean vehicle,53270.0,black,michigan,23100
+gmc,door,2004,salvage insurance,235348.0,gold,south carolina,0
+gmc,mpv,2017,clean vehicle,27195.0,black,virginia,5630
+heartland,sundance,2009,clean vehicle,1.0,white,pennsylvania,0
+jaguar,doors,2019,clean vehicle,20849.0,black,florida,2800
+chevrolet,door,2008,salvage insurance,159266.0,gray,california,0
+ford,door,2015,clean vehicle,143818.0,black,georgia,8850
+ford,f-150,2017,clean vehicle,67347.0,black,michigan,18712
+ford,pickup,2009,salvage insurance,180364.0,blue,tennessee,0
+ford,door,2009,salvage insurance,184889.0,black,illinois,0
+gmc,mpv,2017,clean vehicle,117400.0,blue,virginia,6300
+heartland,country,2010,clean vehicle,1.0,white,pennsylvania,2220
+jeep,mpv,2019,clean vehicle,47798.0,red,florida,6930
+chevrolet,door,2008,salvage insurance,130623.0,white,california,25
+ford,door,2015,clean vehicle,124542.0,white,georgia,3440
+ford,door,2017,clean vehicle,47129.0,black,michigan,50412
+ford,pickup,1994,salvage insurance,206162.0,white,georgia,25
+ford,pk,2001,salvage insurance,229886.0,red,illinois,950
+gmc,mpv,2017,clean vehicle,19490.0,gray,virginia,9270
+jeep,mpv,2019,clean vehicle,12038.0,black,michigan,11380
+hyundai,mpv,2019,clean vehicle,43536.0,blue,florida,5350
+chevrolet,door,2004,salvage insurance,308451.0,black,south carolina,2725
+ford,door,2015,clean vehicle,100893.0,gray,georgia,3790
+ford,door,2017,clean vehicle,90304.0,white,michigan,40514
+ford,door,1997,salvage insurance,146912.0,green,wisconsin,0
+ford,door,1998,salvage insurance,131367.0,white,illinois,0
+gmc,mpv,2017,clean vehicle,31394.0,gray,virginia,9190
+infiniti,mpv,2019,clean vehicle,25933.0,gray,florida,10330
+acura,door,2008,salvage insurance,118250.0,gray,michigan,1000
+bmw,door,2013,salvage insurance,46060.0,white,florida,2925
+ford,door,2015,clean vehicle,50593.0,gold,georgia,3830
+ford,door,2017,clean vehicle,62387.0,blue,michigan,43402
+gmc,door,2009,salvage insurance,169634.0,black,michigan,1025
+honda,van,2016,clean vehicle,72527.0,gray,new jersey,17200
+harley-davidson,road/street,2016,clean vehicle,9502.0,black,virginia,54680
+honda,door,2010,clean vehicle,217290.0,no_color,pennsylvania,6940
+infiniti,mpv,2019,clean vehicle,17243.0,gray,florida,13080
+chevrolet,door,2007,salvage insurance,194903.0,gray,virginia,25
+ford,door,2015,clean vehicle,82899.0,white,georgia,10630
+ford,door,2017,clean vehicle,76418.0,white,michigan,43009
+gmc,door,2003,salvage insurance,138441.0,white,michigan,25
+ford,pickup,2006,salvage insurance,240740.0,brown,mississippi,4600
+honda,mpv,2016,clean vehicle,71404.0,black,virginia,4950
+hyundai,doors,2019,clean vehicle,30382.0,silver,florida,3760
+acura,door,2009,clean vehicle,179389.0,black,texas,3900
+cadillac,coupe,2000,salvage insurance,105169.0,white,virginia,0
+ford,door,2015,clean vehicle,82534.0,silver,georgia,3830
+ford,door,2017,clean vehicle,55732.0,white,michigan,53500
+ford,door,2010,salvage insurance,198596.0,gray,michigan,25
+ford,door,1998,salvage insurance,300021.0,brown,arkansas,25
+honda,door,2015,clean vehicle,83623.0,silver,virginia,6240
+jeep,door,2014,clean vehicle,108895.0,white,new york,4150
+jeep,door,1999,salvage insurance,226972.0,black,florida,25
+bmw,series,2020,clean vehicle,7509.0,black,california,61200
+buick,door,2006,salvage insurance,137464.0,blue,virginia,0
+bmw,series,2014,clean vehicle,33542.0,blue,new jersey,13500
+ford,door,2015,clean vehicle,74754.0,black,georgia,6490
+ford,door,2017,clean vehicle,27661.0,black,michigan,51502
+ford,door,2010,salvage insurance,115241.0,white,michigan,250
+ford,door,1984,salvage insurance,41577.0,white,arkansas,25
+honda,van,2015,clean vehicle,109027.0,gray,virginia,8160
+jeep,door,2014,clean vehicle,72732.0,gray,new york,7770
+jeep,door,2001,salvage insurance,126400.0,green,maryland,200
+audi,door,2008,salvage insurance,177422.0,black,texas,25
+chevrolet,door,1995,salvage insurance,274706.0,green,arizona,0
+bmw,coupe,2008,salvage insurance,77984.0,white,georgia,1825
+bmw,series,2017,clean vehicle,23177.0,blue,california,39800
+ford,door,2015,clean vehicle,26911.0,silver,georgia,9210
+ford,srw,2019,clean vehicle,21527.0,blue,washington,58500
+ford,door,2014,salvage insurance,56461.0,silver,michigan,125
+honda,door,2015,clean vehicle,95128.0,white,virginia,3960
+hyundai,doors,2014,clean vehicle,122975.0,phantom black,new york,5998
+honda,doors,2014,clean vehicle,162824.0,blue,new york,3700
+kia,wagon,2008,salvage insurance,148463.0,silver,indiana,0
+audi,door,2005,salvage insurance,181896.0,black,california,0
+bmw,door,2000,salvage insurance,216657.0,gray,utah,0
+gmc,door,2012,clean vehicle,140339.0,black,utah,5000
+infiniti,mpv,2019,clean vehicle,26786.0,white,texas,15050
+hyundai,doors,2019,clean vehicle,35623.0,red,ohio,3960
+lincoln,nautilus,2019,clean vehicle,14541.0,black,california,36300
+lexus,gx,2020,clean vehicle,8186.0,silver,florida,55600
+nissan,doors,2018,clean vehicle,36739.0,gray,california,2630
+nissan,mpv,2017,clean vehicle,42616.0,blue,new jersey,5690
+audi,q5,2017,clean vehicle,65833.0,blue,texas,19500
+chevrolet,coupe,2008,salvage insurance,123515.0,yellow,minnesota,450
+cadillac,door,2015,clean vehicle,36122.0,white,wisconsin,20400
+chevrolet,door,2011,clean vehicle,88359.0,brown,florida,4320
+ford,f-150,2017,clean vehicle,35905.0,gray,michigan,33001
+ford,door,2017,salvage insurance,35747.0,red,arkansas,10000
+ford,door,2004,salvage insurance,167011.0,red,maryland,0
+gmc,door,2012,clean vehicle,105020.0,white,utah,5790
+infiniti,mpv,2019,clean vehicle,11047.0,black,texas,14750
+hyundai,doors,2019,clean vehicle,31233.0,silver,ohio,4010
+mercedes-benz,gle,2019,clean vehicle,19427.0,white,california,40000
+kia,sportage,2017,clean vehicle,71991.0,silver,new jersey,13000
+nissan,doors,2018,clean vehicle,29043.0,blue,california,3550
+nissan,doors,2017,clean vehicle,36064.0,gray,new jersey,3040
+chevrolet,coupe,2008,salvage insurance,270080.0,yellow,illinois,0
+audi,5,2015,clean vehicle,47213.0,black,wisconsin,36400
+ford,door,2011,clean vehicle,116480.0,black,florida,4480
+ford,door,2017,clean vehicle,72084.0,red,michigan,31003
+ford,pickup,2001,salvage insurance,295780.0,gold,arkansas,75
+gmc,door,2011,clean vehicle,148035.0,white,utah,8850
+infiniti,mpv,2019,clean vehicle,11396.0,white,texas,14750
+hyundai,mpv,2019,clean vehicle,33785.0,silver,ohio,4690
+land,sport,2018,clean vehicle,20103.0,black,california,23000
+land,discovery,2018,clean vehicle,32387.0,black,florida,46900
+mercedes-benz,doors,2018,clean vehicle,48140.0,white,california,10740
+nissan,doors,2017,clean vehicle,34861.0,gray,new jersey,3160
+chevrolet,door,2006,salvage insurance,268040.0,silver,texas,0
+chrysler,door,2011,clean vehicle,114119.0,gold,florida,3450
+ford,f-150,2017,clean vehicle,34165.0,red,michigan,27102
+gmc,door,2018,salvage insurance,27442.0,black,arkansas,500
+gmc,door,2011,clean vehicle,144792.0,white,utah,5100
+infiniti,mpv,2019,clean vehicle,11394.0,beige,texas,15010
+jeep,mpv,2019,clean vehicle,30546.0,silver,ohio,5800
+land,sport,2018,clean vehicle,23745.0,black,california,23200
+hyundai,door,2015,clean vehicle,88274.0,red,pennsylvania,8000
+nissan,doors,2018,clean vehicle,38349.0,gray,california,3390
+nissan,doors,2017,clean vehicle,30142.0,white,new jersey,3140
+chevrolet,door,2007,salvage insurance,267834.0,black,texas,25
+bmw,door,2014,clean vehicle,44730.0,silver,illinois,15000
+chevrolet,cab,2011,clean vehicle,92476.0,blue,florida,10440
+ford,f-150,2017,clean vehicle,25698.0,black,michigan,23911
+ford,pk,2010,salvage insurance,155242.0,gray,oklahoma,25
+gmc,acadia,2018,clean vehicle,54332.0,gray,new jersey,21400
+gmc,cab,2011,clean vehicle,119215.0,white,utah,5380
+jeep,mpv,2019,clean vehicle,8930.0,red,michigan,11000
+jeep,mpv,2019,clean vehicle,46985.0,silver,ohio,4950
+land,sport,2018,clean vehicle,30220.0,black,california,22500
+maserati,ghibli,2017,clean vehicle,37021.0,black,florida,30300
+nissan,doors,2018,clean vehicle,43152.0,white,california,2630
+nissan,doors,2017,clean vehicle,34318.0,silver,new jersey,3140
+chevrolet,door,2011,salvage insurance,88287.0,white,arkansas,2300
+chevrolet,door,2011,clean vehicle,105486.0,black,florida,4310
+ford,door,2017,clean vehicle,19850.0,black,michigan,26012
+ford,door,2014,salvage insurance,116535.0,silver,oklahoma,75
+gmc,1500,2019,clean vehicle,15777.0,black,pennsylvania,48500
+gmc,mpv,2009,clean vehicle,87448.0,white,utah,3330
+jeep,mpv,2019,clean vehicle,8395.0,yellow,michigan,11200
+hyundai,mpv,2019,clean vehicle,30121.0,red,ohio,4730
+mercedes-benz,glc,2018,clean vehicle,33687.0,white,california,24900
+mercedes-benz,e-class,2017,clean vehicle,37561.0,blue,florida,29400
+nissan,cab,2018,clean vehicle,32256.0,gray,california,8350
+peterbilt,truck,2012,salvage insurance,902041.0,gold,florida,475
+nissan,doors,2017,clean vehicle,25255.0,black,new jersey,3210
+chevrolet,van,2006,salvage insurance,165327.0,white,arkansas,25
+chevrolet,cutaway,2006,clean vehicle,118009.0,white,wisconsin,4200
+chevrolet,utility,2011,clean vehicle,114547.0,black,florida,8430
+ford,f-150,2017,clean vehicle,18647.0,black,michigan,25503
+ford,pickup,1996,salvage insurance,252588.0,red,oklahoma,0
+gmc,limited,2019,clean vehicle,16669.0,black,pennsylvania,26000
+honda,doors,2017,clean vehicle,47970.0,blue,virginia,3900
+jeep,mpv,2019,clean vehicle,12905.0,gray,michigan,11200
+jeep,mpv,2019,clean vehicle,22123.0,silver,ohio,8610
+mercedes-benz,gle,2018,clean vehicle,40780.0,white,california,28000
+mercedes-benz,sl-class,2017,clean vehicle,25302.0,silver,florida,84900
+lexus,mpv,2017,clean vehicle,36596.0,black,california,10840
+peterbilt,truck,2012,salvage insurance,0.0,blue,florida,100
+ram,door,2017,clean vehicle,30421.0,white,new jersey,11050
+chevrolet,door,2012,salvage insurance,134938.0,orange,oklahoma,0
+chevrolet,door,2005,clean vehicle,135675.0,gray,wisconsin,1000
+dodge,door,2015,clean vehicle,17355.0,black,georgia,3570
+ford,door,2017,clean vehicle,27773.0,gray,michigan,25001
+ford,door,2010,salvage insurance,86841.0,silver,oklahoma,0
+gmc,mpv,2017,clean vehicle,58366.0,black,virginia,5630
+jeep,mpv,2019,clean vehicle,11229.0,white,michigan,11100
+hyundai,mpv,2019,clean vehicle,27492.0,white,ohio,4650
+lincoln,door,2005,salvage insurance,89705.0,green,minnesota,0
+nissan,mpv,2016,clean vehicle,41654.0,blue,california,3820
+peterbilt,truck,2009,salvage insurance,982486.0,blue,florida,0
+nissan,doors,2017,clean vehicle,31954.0,gray,new jersey,2900
+chevrolet,door,2008,salvage insurance,172102.0,blue,texas,50
+chevrolet,pickup,2004,clean vehicle,173321.0,gray,wisconsin,5100
+dodge,door,2015,clean vehicle,93423.0,red,georgia,4700
+ford,f-150,2017,clean vehicle,14053.0,red,michigan,29502
+ford,door,2008,salvage insurance,145483.0,red,oklahoma,0
+honda,door,2017,clean vehicle,25956.0,white,virginia,6160
+jeep,mpv,2019,clean vehicle,12253.0,red,michigan,10910
+hyundai,doors,2019,clean vehicle,34895.0,gray,ohio,3440
+mazda,cx-3,2016,clean vehicle,47753.0,gray,florida,16000
+kia,door,2016,clean vehicle,39408.0,black,california,3810
+peterbilt,truck,2010,salvage insurance,1017936.0,color:,georgia,1025
+nissan,doors,2017,clean vehicle,33599.0,white,new jersey,3020
+chevrolet,door,2003,salvage insurance,194673.0,gray,texas,0
+chevrolet,pickup,2003,clean vehicle,507985.0,red,wisconsin,2000
+ford,door,2010,clean vehicle,185983.0,white,florida,3870
+ford,door,2017,clean vehicle,28464.0,red,michigan,24811
+ford,door,2007,salvage insurance,154989.0,blue,oklahoma,75
+honda,doors,2017,clean vehicle,16702.0,black,virginia,5420
+jeep,mpv,2019,clean vehicle,11449.0,yellow,michigan,11100
+hyundai,mpv,2019,clean vehicle,25847.0,gray,ohio,4750
+mercedes-benz,door,2015,clean vehicle,49772.0,gray,florida,17900
+nissan,door,2015,clean vehicle,83915.0,black,california,3800
+nissan,doors,2017,clean vehicle,40306.0,silver,new jersey,3160
+chevrolet,pickup,2010,salvage insurance,149189.0,white,colorado,25
+chevrolet,door,2001,clean vehicle,149543.0,red,wisconsin,1200
+chevrolet,coupe,2010,clean vehicle,69622.0,yellow,florida,6470
+ford,door,2017,clean vehicle,36295.0,red,michigan,26400
+gmc,door,1993,salvage insurance,0.0,light blue,colorado,0
+gmc,2500hd,2018,clean vehicle,14856.0,blue,pennsylvania,32500
+honda,mpv,2017,clean vehicle,44129.0,brown,minnesota,6900
+jeep,mpv,2019,clean vehicle,10861.0,yellow,michigan,11030
+hyundai,door,2012,clean vehicle,142106.0,white,mississippi,3460
+mercedes-benz,door,2015,clean vehicle,82411.0,black,florida,18000
+hyundai,door,2015,clean vehicle,111612.0,gray,california,3250
+nissan,doors,2017,clean vehicle,35251.0,gray,new jersey,3210
+chevrolet,door,2017,clean vehicle,50408.0,black,pennsylvania,13200
+ford,f-150,2019,clean vehicle,15630.0,gray,michigan,27705
+chevrolet,door,2017,clean vehicle,53273.0,black,pennsylvania,7200
+ford,f-150,2019,clean vehicle,14786.0,white,michigan,28714
+chevrolet,door,2017,clean vehicle,85315.0,white,pennsylvania,11200
+ford,f-150,2019,clean vehicle,16146.0,gray,michigan,27502
+chevrolet,door,2017,clean vehicle,76211.0,blue,pennsylvania,11900
+ford,f-150,2019,clean vehicle,15265.0,gray,michigan,29314
+chevrolet,door,2017,clean vehicle,79965.0,silver,pennsylvania,11200
+ford,f-150,2019,clean vehicle,16059.0,gray,michigan,27002
+chevrolet,door,2017,clean vehicle,62739.0,black,pennsylvania,13200
+ford,f-150,2019,clean vehicle,15569.0,white,michigan,28214
+chevrolet,door,2017,clean vehicle,58932.0,black,pennsylvania,12700
+ford,f-150,2019,clean vehicle,17488.0,white,michigan,29900
+chevrolet,door,2017,clean vehicle,60733.0,black,pennsylvania,12700
+ford,f-150,2019,clean vehicle,18550.0,red,michigan,27202
+chevrolet,impala,2018,clean vehicle,53194.0,white,new jersey,13500
+ford,f-150,2019,clean vehicle,17644.0,silver,michigan,27705
+chevrolet,van,2016,clean vehicle,34454.0,white,pennsylvania,14700
+ford,f-150,2019,clean vehicle,17684.0,white,michigan,29900
+chevrolet,door,2015,clean vehicle,83279.0,gray,pennsylvania,4500
+ford,f-150,2019,clean vehicle,16600.0,silver,michigan,27705
+chevrolet,door,2015,clean vehicle,107971.0,gray,pennsylvania,8000
+ford,f-150,2019,clean vehicle,17801.0,silver,michigan,25511
+chevrolet,colorado,2015,clean vehicle,94150.0,white,pennsylvania,7700
+ford,f-150,2019,clean vehicle,17159.0,silver,michigan,29900
+chevrolet,van,2015,clean vehicle,80711.0,white,pennsylvania,7200
+ford,f-150,2019,clean vehicle,17983.0,red,michigan,27502
+chevrolet,door,2013,clean vehicle,119981.0,white,pennsylvania,4500
+ford,f-150,2019,clean vehicle,17851.0,white,michigan,27402
+chevrolet,sonic,2013,clean vehicle,66079.0,black,pennsylvania,1500
+ford,f-150,2019,clean vehicle,18174.0,white,michigan,26602
+chevrolet,sonic,2019,clean vehicle,7654.0,black,illinois,10200
+ford,f-150,2019,clean vehicle,18759.0,black,michigan,29900
+chevrolet,colorado,2019,clean vehicle,11564.0,white,illinois,14000
+ford,f-150,2019,clean vehicle,18901.0,silver,michigan,28500
+chevrolet,door,2016,clean vehicle,86541.0,black,florida,8000
+ford,f-150,2019,clean vehicle,21157.0,silver,michigan,29809
+chevrolet,corvette,2015,clean vehicle,29937.0,black,florida,36900
+ford,f-150,2019,clean vehicle,23964.0,white,michigan,26902
+chevrolet,door,2015,clean vehicle,58504.0,red,florida,10950
+ford,f-150,2019,clean vehicle,20154.0,white,michigan,27402
+acura,mdx,2014,clean vehicle,63500.0,silver,florida,16900
+ford,f-150,2019,clean vehicle,23294.0,silver,michigan,25600
+bmw,series,2016,clean vehicle,24293.0,no_color,texas,29700
+ford,f-150,2019,clean vehicle,20343.0,red,michigan,27702
+buick,encore,2016,clean vehicle,19655.0,red,texas,13500
+ford,f-150,2019,clean vehicle,19100.0,white,michigan,27102
+ford,f-150,2019,clean vehicle,20014.0,white,michigan,27102
+ford,f-150,2019,clean vehicle,21774.0,black,michigan,25811
+ford,f-150,2019,clean vehicle,21201.0,white,michigan,26602
+ford,f-150,2019,clean vehicle,21766.0,white,michigan,27102
+buick,enclave,2019,clean vehicle,12406.0,gray,wisconsin,37500
+ford,flex,2019,clean vehicle,17977.0,blue,michigan,26211
+ford,flex,2019,clean vehicle,22805.0,silver,michigan,24205
+cadillac,xt5,2019,clean vehicle,16013.0,black,wisconsin,37500
+ford,flex,2019,clean vehicle,14382.0,black,michigan,27111
+ford,flex,2019,clean vehicle,9660.0,black,michigan,27411
+ford,flex,2019,clean vehicle,18969.0,black,michigan,27302
+ford,f-150,2019,clean vehicle,24730.0,gray,michigan,27202
+ford,flex,2019,clean vehicle,15847.0,red,michigan,26311
+ford,f-150,2019,clean vehicle,25009.0,white,michigan,26602
+bmw,series,2017,clean vehicle,22115.0,blue,wisconsin,33500
+ford,flex,2019,clean vehicle,11836.0,white,michigan,27511
+buick,door,2017,clean vehicle,23765.0,red,wisconsin,21500
+ford,f-150,2019,clean vehicle,25508.0,silver,michigan,27200
+ford,flex,2019,clean vehicle,18196.0,red,michigan,26511
+ford,flex,2019,clean vehicle,16106.0,gray,michigan,24002
+buick,door,2017,clean vehicle,14907.0,silver,wisconsin,21500
+ford,fusion,2019,clean vehicle,12735.0,gray,michigan,18511
+kia,sorento,2017,clean vehicle,53424.0,black,connecticut,14000
+buick,door,2017,clean vehicle,17940.0,green,illinois,29000
+ford,flex,2019,clean vehicle,17417.0,gray,michigan,23402
+kia,door,2017,clean vehicle,37125.0,no_color,connecticut,13300
+bmw,x3,2017,clean vehicle,61428.0,black,wisconsin,19700
+ford,flex,2019,clean vehicle,17025.0,black,michigan,23211
+kia,sorento,2017,clean vehicle,37668.0,red,connecticut,15500
+ford,fusion,2019,clean vehicle,15805.0,black,michigan,18111
+kia,sorento,2017,clean vehicle,43761.0,gray,connecticut,21500
+ford,mustang,2019,clean vehicle,11342.0,gray,michigan,25511
+chevrolet,equinox,2017,clean vehicle,35664.0,blue,wisconsin,17700
+chevrolet,cutaway,2017,clean vehicle,12780.0,white,illinois,28000
+chevrolet,door,2017,clean vehicle,38458.0,blue,wisconsin,14000
+chevrolet,door,2017,clean vehicle,34420.0,silver,wisconsin,21700
+chevrolet,door,2017,clean vehicle,46497.0,white,wisconsin,13500
+chevrolet,1500,2017,clean vehicle,21268.0,no_color,wisconsin,35500
+chevrolet,1500,2017,clean vehicle,31029.0,red,wisconsin,29500
+chevrolet,1500,2017,clean vehicle,40878.0,no_color,wisconsin,25300
+chevrolet,1500,2016,clean vehicle,20270.0,silver,new jersey,21500
+chevrolet,door,2016,clean vehicle,32984.0,blue,wisconsin,25900
+chevrolet,door,2016,clean vehicle,75506.0,black,wisconsin,35300
+chevrolet,door,2016,clean vehicle,39951.0,red,wisconsin,13500
+chevrolet,corvette,2016,clean vehicle,19403.0,white,illinois,62000
+chevrolet,corvette,2016,clean vehicle,4445.0,black,illinois,46000
+chevrolet,malibu,2016,clean vehicle,67527.0,gray,wisconsin,9000
+chevrolet,door,2016,clean vehicle,33588.0,white,wisconsin,25900
+chevrolet,door,2016,clean vehicle,10103.0,no_color,wisconsin,25800
+chevrolet,door,2016,clean vehicle,26474.0,gray,wisconsin,17000
+chevrolet,door,2016,clean vehicle,40253.0,white,wisconsin,12800
+chevrolet,3500,2016,clean vehicle,39624.0,red,wisconsin,47400
+chevrolet,door,2016,clean vehicle,48705.0,gray,wisconsin,24400
+chevrolet,trax,2016,clean vehicle,19659.0,white,wisconsin,17100
+chevrolet,door,2015,clean vehicle,91299.0,no_color,wisconsin,7400
+chevrolet,door,2015,clean vehicle,81614.0,gold,wisconsin,33100
+chevrolet,trax,2020,clean vehicle,179.0,gray,california,22000
+chevrolet,1500,2019,clean vehicle,5523.0,no_color,california,35000
+chevrolet,equinox,2019,clean vehicle,29841.0,silver,california,16500
+chevrolet,1500,2019,clean vehicle,8516.0,silver,california,35300
+chevrolet,traverse,2018,clean vehicle,42941.0,black,missouri,26900
+chevrolet,trax,2017,clean vehicle,27498.0,black,california,11600
+chevrolet,1500,2017,clean vehicle,31141.0,silver,california,28100
+chevrolet,1500,2017,clean vehicle,20784.0,white,california,27700
+chevrolet,passenger,2017,clean vehicle,52667.0,white,california,17700
+chevrolet,volt,2017,clean vehicle,26003.0,no_color,california,16600
+chevrolet,corvette,2016,clean vehicle,4266.0,red,california,63200
+chevrolet,door,2015,clean vehicle,32332.0,white,california,36800
+chevrolet,passenger,2018,clean vehicle,44333.0,white,texas,19500
+chevrolet,tahoe,2019,clean vehicle,36198.0,blue,oklahoma,38800
+chevrolet,tahoe,2019,clean vehicle,33331.0,silver,oklahoma,37500
+chevrolet,suburban,2019,clean vehicle,43082.0,gray,oklahoma,35000
+chevrolet,camaro,2019,clean vehicle,24561.0,gray,oklahoma,31100
+chevrolet,van,2019,clean vehicle,13485.0,white,oklahoma,22600
+chevrolet,van,2019,clean vehicle,15524.0,white,oklahoma,22400
+chevrolet,van,2019,clean vehicle,8996.0,white,oklahoma,22700
+chevrolet,malibu,2019,clean vehicle,47282.0,silver,oklahoma,13700
+chevrolet,suburban,2019,clean vehicle,34470.0,black,oklahoma,37100
+chevrolet,colorado,2018,clean vehicle,87264.0,green,oregon,18500
+chevrolet,2500,2017,clean vehicle,114344.0,white,oregon,18300
+chevrolet,2500,2017,clean vehicle,111635.0,white,oregon,19000
+chevrolet,1500,2017,clean vehicle,103955.0,white,oregon,18500
+chevrolet,door,2016,clean vehicle,66640.0,white,oregon,22500
+chevrolet,door,2014,clean vehicle,122018.0,white,oregon,14500
+chevrolet,tahoe,2018,clean vehicle,46915.0,gray,oklahoma,32800
+chevrolet,malibu,2018,clean vehicle,53599.0,black,oklahoma,12300
+chevrolet,1500,2018,clean vehicle,41672.0,gray,oklahoma,19600
+chevrolet,malibu,2018,clean vehicle,36047.0,white,oklahoma,13600
+chevrolet,spark,2018,clean vehicle,42561.0,red,oklahoma,7200
+chevrolet,1500,2018,clean vehicle,40345.0,white,oklahoma,19900
+chevrolet,malibu,2018,clean vehicle,41751.0,gray,oklahoma,13000
+chevrolet,door,2016,clean vehicle,27593.0,white,oklahoma,19700
+chevrolet,door,2017,clean vehicle,24009.0,blue,oklahoma,9400
+chevrolet,1500,2017,clean vehicle,85697.0,white,oklahoma,23800
+chevrolet,equinox,2019,clean vehicle,25223.0,white,new york,17700
+chevrolet,door,2015,clean vehicle,27927.0,white,oklahoma,17000
+chevrolet,door,2014,clean vehicle,135127.0,red,florida,14000
+chevrolet,2500,2018,clean vehicle,55532.0,white,pennsylvania,32100
+chevrolet,2500,2019,clean vehicle,72172.0,white,pennsylvania,33100
+chevrolet,2500,2018,clean vehicle,57751.0,white,pennsylvania,31600
+chevrolet,door,2013,clean vehicle,96314.0,gray,pennsylvania,5100
+chevrolet,door,2013,clean vehicle,89152.0,blue,pennsylvania,4100
+chevrolet,door,2014,clean vehicle,114660.0,silver,texas,7200
+chevrolet,1500,2014,clean vehicle,177322.0,white,texas,12800
+chevrolet,1500,2019,clean vehicle,36423.0,gray,nebraska,46800
+chevrolet,van,2019,clean vehicle,23759.0,white,missouri,21800
+chevrolet,door,2013,clean vehicle,120667.0,gray,texas,3000
+chevrolet,colorado,2017,clean vehicle,65344.0,red,indiana,22500
+chevrolet,suburban,2018,clean vehicle,51347.0,black,missouri,35300
+chevrolet,volt,2017,clean vehicle,52322.0,black,oklahoma,16500
+chevrolet,door,2017,clean vehicle,67620.0,black,missouri,33000
+chevrolet,1500,2017,clean vehicle,59965.0,black,missouri,31500
+chevrolet,1500,2017,clean vehicle,28739.0,silver,missouri,34500
+chevrolet,trax,2016,clean vehicle,77429.0,silver,west virginia,8000
+chevrolet,1500,2017,clean vehicle,20847.0,white,west virginia,25000
+chevrolet,trax,2016,clean vehicle,44280.0,red,west virginia,10700
+chevrolet,door,2016,clean vehicle,86031.0,silver,west virginia,13400
+chevrolet,equinox,2019,clean vehicle,7622.0,gold,west virginia,16500
+chevrolet,traverse,2019,clean vehicle,8067.0,white,west virginia,34000
+chevrolet,trax,2018,clean vehicle,16502.0,white,west virginia,14100
+chevrolet,1500,2019,clean vehicle,20681.0,black,west virginia,38600
+chevrolet,door,2016,clean vehicle,54655.0,blue,missouri,9100
+chevrolet,door,2016,clean vehicle,57825.0,blue,missouri,8600
+chevrolet,door,2016,clean vehicle,58856.0,white,oklahoma,22000
+chevrolet,colorado,2015,clean vehicle,85072.0,white,west virginia,8900
+chevrolet,door,2015,clean vehicle,79506.0,red,west virginia,15500
+chevrolet,door,2015,clean vehicle,85301.0,silver,west virginia,3300
+chevrolet,1500,2015,clean vehicle,69377.0,brown,missouri,29000
+chevrolet,equinox,2020,clean vehicle,15577.0,black,nevada,17300
+chevrolet,traverse,2020,clean vehicle,23470.0,silver,nevada,30500
+chevrolet,impala,2020,clean vehicle,18715.0,silver,nevada,25000
+chevrolet,cruze,2012,clean vehicle,61258.0,white,illinois,2800
+chevrolet,door,2012,clean vehicle,131791.0,no_color,illinois,3300
+chevrolet,suburban,2019,clean vehicle,35705.0,silver,nevada,36400
+chevrolet,suburban,2019,clean vehicle,48982.0,silver,nevada,34800
+chevrolet,ld,2019,clean vehicle,33745.0,white,nevada,20700
+chevrolet,suburban,2019,clean vehicle,42267.0,silver,nevada,32200
+chevrolet,tahoe,2019,clean vehicle,46863.0,black,nevada,35300
+chevrolet,suburban,2019,clean vehicle,36443.0,white,nevada,33500
+chevrolet,impala,2019,clean vehicle,14939.0,blue,nevada,13700
+chevrolet,malibu,2019,clean vehicle,22026.0,black,nevada,15900
+chevrolet,suburban,2019,clean vehicle,38278.0,black,nevada,33200
+chevrolet,suburban,2019,clean vehicle,46149.0,silver,nevada,35500
+chevrolet,suburban,2018,clean vehicle,48427.0,silver,nevada,29800
+chevrolet,suburban,2018,clean vehicle,48807.0,gray,nevada,29800
+chevrolet,suburban,2018,clean vehicle,52618.0,silver,nevada,29500
+chevrolet,suburban,2018,clean vehicle,46494.0,white,nevada,30300
+chevrolet,1500,2018,clean vehicle,56296.0,black,new york,24300
+chevrolet,suburban,2017,clean vehicle,33909.0,silver,nevada,29800
+chevrolet,suburban,2017,clean vehicle,33028.0,white,nevada,29800
+chevrolet,camaro,2016,clean vehicle,44653.0,white,nevada,27500
+chevrolet,door,2017,clean vehicle,80516.0,gray,new jersey,10800
+chevrolet,van,2017,clean vehicle,105151.0,white,new jersey,11500
+chevrolet,van,2017,clean vehicle,78368.0,white,new jersey,10400
+chevrolet,equinox,2018,clean vehicle,78956.0,white,florida,11400
+chevrolet,equinox,2018,clean vehicle,88564.0,white,florida,11400
+chevrolet,door,2015,clean vehicle,78800.0,white,nevada,8000
+chevrolet,door,2012,clean vehicle,111856.0,white,california,3000
+chevrolet,door,2015,clean vehicle,80946.0,black,nevada,25000
+chevrolet,traverse,2017,clean vehicle,83168.0,gray,new york,12300
+chevrolet,traverse,2017,clean vehicle,58606.0,white,new york,14100
+chevrolet,van,2014,clean vehicle,82020.0,white,nevada,9000
+chevrolet,door,2014,clean vehicle,102500.0,black,nevada,4200
+chevrolet,van,2019,clean vehicle,8150.0,white,texas,22500
+chevrolet,van,2019,clean vehicle,6159.0,white,texas,22600
+chevrolet,van,2019,clean vehicle,5938.0,white,texas,22600
+chevrolet,van,2019,clean vehicle,9019.0,white,texas,22500
+chevrolet,malibu,2018,clean vehicle,45836.0,white,texas,10200
+chevrolet,3500,2016,clean vehicle,60215.0,white,texas,42700
+chevrolet,tahoe,2015,clean vehicle,125507.0,white,texas,21200
+chevrolet,door,2016,clean vehicle,90944.0,white,texas,22700
+chevrolet,tahoe,2015,clean vehicle,82785.0,gray,texas,22000
+chevrolet,1500,2014,clean vehicle,150525.0,white,texas,9600
+chevrolet,door,2013,clean vehicle,112267.0,silver,texas,10500
+chevrolet,door,2013,clean vehicle,139394.0,white,texas,6700
+chevrolet,door,2013,clean vehicle,82543.0,black,texas,14200
+chevrolet,equinox,2019,clean vehicle,13532.0,white,florida,15500
+chevrolet,1500,2018,clean vehicle,14751.0,blue,kansas,35100
+chevrolet,camaro,2018,clean vehicle,11150.0,gray,kansas,26300
+chevrolet,colorado,2016,clean vehicle,91248.0,white,new jersey,15700
+chevrolet,1500,2016,clean vehicle,65336.0,white,new jersey,17600
+chevrolet,1500,2016,clean vehicle,48974.0,white,new jersey,18600
+chevrolet,1500,2016,clean vehicle,40011.0,white,new jersey,19100
+chevrolet,equinox,2019,clean vehicle,37444.0,black,north carolina,15200
+chevrolet,equinox,2019,clean vehicle,43199.0,white,north carolina,16100
+chevrolet,equinox,2019,clean vehicle,43589.0,charcoal,north carolina,14800
+chevrolet,equinox,2019,clean vehicle,32870.0,charcoal,north carolina,16700
+chevrolet,equinox,2019,clean vehicle,38826.0,charcoal,north carolina,15300
+chevrolet,equinox,2019,clean vehicle,33739.0,charcoal,north carolina,16500
+chevrolet,passenger,2019,clean vehicle,35309.0,white,north carolina,19600
+chevrolet,impala,2019,clean vehicle,32248.0,red,north carolina,15200
+chevrolet,impala,2019,clean vehicle,36165.0,silver,north carolina,15000
+chevrolet,impala,2019,clean vehicle,29922.0,charcoal,north carolina,15500
+chevrolet,impala,2019,clean vehicle,26848.0,silver,north carolina,15700
+chevrolet,impala,2019,clean vehicle,41163.0,charcoal,north carolina,14800
+chevrolet,cruze,2017,clean vehicle,32856.0,red,north carolina,9200
+chevrolet,impala,2017,clean vehicle,100315.0,black,north carolina,8200
+chevrolet,door,2013,clean vehicle,91638.0,silver,new jersey,11400
+chevrolet,door,2015,clean vehicle,83173.0,white,north carolina,6500
+chevrolet,door,2014,clean vehicle,94356.0,gray,north carolina,11500
+chevrolet,door,2015,clean vehicle,85792.0,black,florida,23800
+chevrolet,door,2014,clean vehicle,129068.0,white,florida,8900
+chevrolet,ld,2019,clean vehicle,27665.0,red,indiana,28300
+chevrolet,ld,2019,clean vehicle,25427.0,black,indiana,27300
+chevrolet,door,2013,clean vehicle,78198.0,gray,new jersey,3500
+chevrolet,colorado,2020,clean vehicle,13886.0,silver,indiana,28300
+chevrolet,impala,2019,clean vehicle,34538.0,silver,indiana,18300
+dodge,charger,2018,clean vehicle,20575.0,silver,wisconsin,22500
+dodge,charger,2018,clean vehicle,26026.0,gray,wisconsin,22500
+dodge,door,2012,clean vehicle,99015.0,gray,wisconsin,8300
+dodge,caravan,2019,clean vehicle,27327.0,gray,nebraska,16500
+dodge,journey,2019,clean vehicle,30229.0,silver,nebraska,14500
+dodge,challenger,2019,clean vehicle,23783.0,white,washington,21600
+dodge,charger,2019,clean vehicle,30759.0,black,washington,22600
+dodge,caravan,2019,clean vehicle,38922.0,gray,washington,16300
+dodge,door,2012,clean vehicle,165836.0,blue,washington,8600
+dodge,durango,2019,clean vehicle,19235.0,no_color,texas,28800
+dodge,challenger,2019,clean vehicle,9445.0,gray,texas,22100
+dodge,journey,2018,clean vehicle,19164.0,gray,north carolina,14300
+dodge,caravan,2018,clean vehicle,54106.0,white,north carolina,13700
+dodge,challenger,2017,clean vehicle,32051.0,no_color,arizona,29500
+dodge,journey,2017,clean vehicle,14870.0,gray,texas,18500
+dodge,door,2016,clean vehicle,32294.0,blue,colorado,19000
+dodge,challenger,2015,clean vehicle,7250.0,white,arizona,43400
+dodge,challenger,2015,clean vehicle,10145.0,no_color,arizona,46000
+dodge,journey,2018,clean vehicle,59924.0,silver,texas,12500
+dodge,charger,2017,clean vehicle,21304.0,black,florida,13900
+dodge,caravan,2018,clean vehicle,52079.0,white,california,13000
+dodge,caravan,2018,clean vehicle,54960.0,white,california,13000
+dodge,door,2013,clean vehicle,80099.0,white,texas,3000
+dodge,caravan,2019,clean vehicle,23987.0,black,florida,17500
+dodge,door,2017,clean vehicle,84144.0,gray,california,7900
+dodge,door,2014,clean vehicle,85639.0,blue,florida,8900
+dodge,caravan,2018,clean vehicle,50193.0,no_color,pennsylvania,11500
+dodge,journey,2017,clean vehicle,74392.0,black,pennsylvania,6500
+dodge,door,2017,clean vehicle,76117.0,black,pennsylvania,8000
+dodge,challenger,2018,clean vehicle,36358.0,gray,new jersey,18700
+dodge,journey,2017,clean vehicle,90685.0,white,florida,8350
+dodge,charger,2017,clean vehicle,54141.0,orange,florida,27900
+dodge,door,2016,clean vehicle,82240.0,white,pennsylvania,14500
+dodge,door,2016,clean vehicle,66167.0,silver,pennsylvania,6200
+dodge,door,2012,clean vehicle,144220.0,gray,pennsylvania,7500
+dodge,caravan,2019,clean vehicle,24722.0,black,illinois,20200
+dodge,durango,2019,clean vehicle,41198.0,silver,illinois,29300
+dodge,durango,2019,clean vehicle,26353.0,black,illinois,31000
+dodge,durango,2019,clean vehicle,28280.0,white,illinois,32400
+dodge,door,2012,clean vehicle,130120.0,white,minnesota,5800
+dodge,charger,2019,clean vehicle,15340.0,black,texas,21500
+dodge,charger,2018,clean vehicle,12265.0,silver,michigan,23100
+dodge,van,2014,clean vehicle,94872.0,gray,texas,4500
+dodge,charger,2018,clean vehicle,17946.0,silver,michigan,24800
+dodge,charger,2018,clean vehicle,26996.0,gray,michigan,23000
+dodge,journey,2019,clean vehicle,5775.0,gray,wisconsin,26900
+dodge,challenger,2018,clean vehicle,6748.0,gray,wisconsin,21500
+dodge,journey,2018,clean vehicle,38128.0,white,wisconsin,15700
+dodge,caravan,2018,clean vehicle,41636.0,silver,wisconsin,15200
+dodge,charger,2018,clean vehicle,5359.0,blue,wisconsin,23300
+dodge,door,2015,clean vehicle,70296.0,white,minnesota,6100
+dodge,journey,2017,clean vehicle,11346.0,green,wisconsin,20000
+dodge,challenger,2017,clean vehicle,7415.0,no_color,illinois,53000
+dodge,door,2013,clean vehicle,107593.0,orange,minnesota,3000
+dodge,door,2016,clean vehicle,50639.0,black,new jersey,18200
+dodge,challenger,2019,clean vehicle,6530.0,gray,arizona,21800
+dodge,charger,2016,clean vehicle,17432.0,blue,illinois,52000
+dodge,charger,2019,clean vehicle,19636.0,black,arizona,19000
+dodge,challenger,2016,clean vehicle,41748.0,no_color,illinois,25000
+dodge,challenger,2016,clean vehicle,13162.0,red,illinois,36000
+dodge,caravan,2019,clean vehicle,32937.0,white,georgia,17000
+dodge,door,2015,clean vehicle,23095.0,red,wisconsin,25300
+dodge,journey,2017,clean vehicle,34432.0,gray,wisconsin,14900
+dodge,caravan,2017,clean vehicle,48162.0,no_color,wisconsin,15000
+dodge,doors,2014,clean vehicle,68310.0,gray,massachusetts,12995
+dodge,doors,2014,clean vehicle,48000.0,black,massachusetts,17750
+dodge,doors,2014,clean vehicle,105962.0,black,pennsylvania,10295
+dodge,doors,2014,clean vehicle,96575.0,gray,connecticut,16995
+dodge,doors,2014,clean vehicle,13239.0,toreador red,new york,25000
+dodge,doors,2014,clean vehicle,24934.0,bright white clearcoat,rhode island,23995
+dodge,doors,2014,clean vehicle,46859.0,billet silver metallic clearcoat,new jersey,14900
+dodge,doors,2014,clean vehicle,44468.0,black clearcoat,new york,15810
+dodge,doors,2014,clean vehicle,62230.0,jazz blue pearlcoat,new york,20227
+dodge,doors,2014,clean vehicle,37082.0,silver,new york,20999
+dodge,doors,2014,clean vehicle,23964.0,bright white clearcoat,new jersey,22499
+dodge,doors,2014,clean vehicle,11204.0,black clearcoat,new york,23495
+dodge,doors,2014,clean vehicle,7608.0,billet silver metallic clearcoat,new york,25250
+dodge,doors,2014,clean vehicle,49982.0,billet silver metallic clearcoat,new jersey,15322
+dodge,charger,2019,clean vehicle,4950.0,gray,texas,21232
+dodge,journey,2013,clean vehicle,111628.0,white,wisconsin,5800
+dodge,door,2012,clean vehicle,15927.0,black,illinois,29000
+dodge,caravan,2018,clean vehicle,36299.0,gray,new jersey,17000
+dodge,journey,2018,clean vehicle,28469.0,red,florida,13800
+dodge,durango,2019,clean vehicle,29086.0,gray,missouri,30000
+dodge,caravan,2017,clean vehicle,35991.0,gray,florida,14800
+dodge,journey,2017,clean vehicle,62224.0,black,missouri,8500
+dodge,door,2013,clean vehicle,86500.0,white,missouri,9800
+dodge,door,2014,clean vehicle,144725.0,gray,nevada,4200
+dodge,van,2013,salvage insurance,163260.0,red,tennessee,2500
+dodge,charger,2018,clean vehicle,19636.0,blue,california,28700
+dodge,challenger,2018,clean vehicle,34272.0,gray,california,18500
+dodge,challenger,2018,clean vehicle,42909.0,no_color,california,17300
+dodge,door,2016,clean vehicle,55749.0,gray,louisiana,7100
+dodge,door,2015,salvage insurance,89142.0,white,minnesota,3250
+dodge,durango,2017,clean vehicle,20328.0,no_color,california,30700
+dodge,door,2012,clean vehicle,149332.0,gray,missouri,3000
+dodge,durango,2019,clean vehicle,28551.0,gray,california,26500
+dodge,charger,2019,clean vehicle,35098.0,gray,california,20800
+dodge,charger,2019,clean vehicle,35365.0,gray,california,20800
+dodge,door,2015,clean vehicle,88398.0,white,california,5100
+dodge,challenger,2019,clean vehicle,27957.0,black,california,18900
+dodge,durango,2019,clean vehicle,30161.0,silver,california,24000
+dodge,challenger,2015,clean vehicle,26292.0,white,california,38800
+dodge,durango,2019,clean vehicle,25780.0,white,california,24500
+dodge,durango,2019,clean vehicle,25032.0,black,california,24500
+dodge,door,2016,clean vehicle,72248.0,blue,new jersey,6500
+dodge,durango,2019,clean vehicle,30630.0,gray,california,24000
+dodge,door,2014,clean vehicle,86125.0,no_color,california,18000
+dodge,durango,2019,clean vehicle,30408.0,white,california,24000
+dodge,durango,2019,clean vehicle,35443.0,silver,california,23500
+dodge,van,2014,clean vehicle,95377.0,white,california,4500
+dodge,durango,2019,clean vehicle,32724.0,silver,california,25900
+dodge,caravan,2019,clean vehicle,45089.0,gray,california,13900
+dodge,journey,2019,clean vehicle,35948.0,silver,california,14200
+dodge,caravan,2019,clean vehicle,41601.0,blue,california,15400
+dodge,challenger,2019,clean vehicle,26370.0,gray,texas,17500
+dodge,caravan,2019,clean vehicle,18271.0,white,texas,17500
+dodge,caravan,2019,clean vehicle,9476.0,white,texas,18000
+dodge,door,2012,clean vehicle,80899.0,gray,new jersey,25200
+dodge,caravan,2018,clean vehicle,57394.0,black,texas,14100
+dodge,caravan,2018,clean vehicle,42190.0,white,california,13300
+dodge,caravan,2019,clean vehicle,22591.0,black,oklahoma,16200
+dodge,caravan,2018,clean vehicle,48681.0,gray,california,13300
+dodge,caravan,2018,clean vehicle,42621.0,silver,california,13100
+dodge,caravan,2017,clean vehicle,27761.0,silver,california,15500
+dodge,door,2013,salvage insurance,107768.0,white,california,4500
+dodge,durango,2019,clean vehicle,14355.0,gray,colorado,28400
+dodge,caravan,2019,clean vehicle,9467.0,gray,colorado,17400
+dodge,door,2014,clean vehicle,122837.0,silver,florida,6000
+dodge,challenger,2019,clean vehicle,18313.0,gray,virginia,20700
+dodge,challenger,2019,clean vehicle,19506.0,black,virginia,20300
+dodge,journey,2018,clean vehicle,14750.0,black,oklahoma,14000
+dodge,challenger,2019,clean vehicle,11280.0,green,virginia,22000
+dodge,journey,2019,clean vehicle,13944.0,blue,virginia,17200
+dodge,door,2016,clean vehicle,26922.0,blue,oklahoma,15000
+dodge,journey,2019,clean vehicle,12690.0,gray,virginia,17500
+dodge,door,2013,salvage insurance,239822.0,gray,michigan,1300
+dodge,door,2014,salvage insurance,74975.0,red,nevada,1750
+dodge,caravan,2019,clean vehicle,28289.0,red,florida,16300
+dodge,caravan,2019,clean vehicle,38041.0,red,florida,15700
+dodge,journey,2017,clean vehicle,52386.0,silver,florida,10000
+dodge,charger,2019,clean vehicle,34391.0,white,florida,23100
+dodge,caravan,2019,clean vehicle,39515.0,red,florida,14900
+dodge,journey,2019,clean vehicle,22074.0,orange,virginia,16700
+dodge,caravan,2019,clean vehicle,28782.0,white,florida,16300
+dodge,durango,2019,clean vehicle,30092.0,red,north carolina,25800
+dodge,challenger,2019,clean vehicle,26443.0,black,north carolina,23800
+dodge,journey,2019,clean vehicle,28981.0,red,north carolina,16800
+dodge,journey,2019,clean vehicle,32865.0,white,north carolina,15500
+dodge,door,2014,clean vehicle,117258.0,blue,florida,6000
+dodge,durango,2019,clean vehicle,16397.0,white,arizona,26900
+dodge,caravan,2019,clean vehicle,16176.0,white,arizona,16900
+dodge,caravan,2019,clean vehicle,1091.0,gray,arizona,19500
+dodge,caravan,2019,clean vehicle,17472.0,black,arizona,15400
+dodge,door,2012,clean vehicle,123882.0,white,texas,2300
+dodge,charger,2019,clean vehicle,10341.0,red,california,17000
+dodge,durango,2019,clean vehicle,19695.0,black,new jersey,34000
+dodge,journey,2017,clean vehicle,51041.0,black,pennsylvania,13700
+dodge,challenger,2018,clean vehicle,22646.0,white,west virginia,19100
+dodge,journey,2018,clean vehicle,18138.0,white,west virginia,11800
+dodge,durango,2019,clean vehicle,23987.0,gray,nevada,27500
+dodge,durango,2019,clean vehicle,17160.0,black,nevada,26900
+dodge,durango,2019,clean vehicle,26929.0,white,nevada,27100
+dodge,durango,2019,clean vehicle,25815.0,white,nevada,27200
+dodge,caravan,2017,clean vehicle,81992.0,silver,florida,9000
+dodge,challenger,2019,clean vehicle,5000.0,gray,south carolina,22500
+dodge,door,2015,clean vehicle,62683.0,white,west virginia,7700
+dodge,van,2013,clean vehicle,107224.0,white,florida,4500
+dodge,door,2013,salvage insurance,184905.0,gray,illinois,2200
+dodge,charger,2019,clean vehicle,35153.0,black,pennsylvania,21500
+dodge,challenger,2019,clean vehicle,26474.0,orange,pennsylvania,18800
+dodge,charger,2019,clean vehicle,30943.0,red,pennsylvania,21800
+dodge,challenger,2019,clean vehicle,17154.0,black,pennsylvania,20300
+dodge,van,2016,clean vehicle,79637.0,white,south carolina,8200
+dodge,caravan,2019,clean vehicle,12123.0,red,pennsylvania,19000
+dodge,door,2016,clean vehicle,107822.0,blue,south carolina,8400
+dodge,caravan,2019,clean vehicle,10221.0,blue,pennsylvania,19500
+dodge,door,2015,clean vehicle,95278.0,blue,south carolina,7000
+dodge,challenger,2019,clean vehicle,13457.0,gray,pennsylvania,19500
+dodge,van,2014,clean vehicle,69936.0,blue,missouri,8500
+dodge,challenger,2019,clean vehicle,13520.0,gray,pennsylvania,20500
+dodge,door,2014,clean vehicle,96922.0,silver,south carolina,4900
+dodge,door,2014,clean vehicle,72594.0,black,missouri,20800
+dodge,durango,2019,clean vehicle,17896.0,silver,pennsylvania,28500
+dodge,caravan,2019,clean vehicle,11088.0,silver,pennsylvania,21900
+dodge,caravan,2019,clean vehicle,29567.0,black,nevada,15800
+dodge,durango,2019,clean vehicle,15655.0,white,colorado,33000
+dodge,challenger,2019,clean vehicle,26428.0,black,nevada,22700
+dodge,charger,2019,clean vehicle,29003.0,white,pennsylvania,21900
+dodge,charger,2019,clean vehicle,32229.0,red,pennsylvania,19300
+dodge,durango,2019,clean vehicle,26503.0,black,nevada,30700
+dodge,challenger,2019,clean vehicle,15446.0,black,pennsylvania,19300
+dodge,caravan,2014,clean vehicle,128556.0,white,california,13750
+dodge,caravan,2019,clean vehicle,23369.0,silver,nevada,16400
+dodge,caravan,2019,clean vehicle,8767.0,black,pennsylvania,19500
+dodge,caravan,2019,clean vehicle,48319.0,white,nevada,15100
+dodge,durango,2019,clean vehicle,15275.0,black,pennsylvania,28500
+dodge,caravan,2019,clean vehicle,33826.0,white,nevada,15300
+dodge,challenger,2019,clean vehicle,16679.0,white,pennsylvania,20300
+dodge,charger,2019,clean vehicle,26184.0,gray,pennsylvania,22000
+dodge,journey,2019,clean vehicle,21203.0,gray,nevada,16700
+dodge,challenger,2019,clean vehicle,17870.0,black,pennsylvania,19300
+dodge,durango,2019,clean vehicle,17909.0,gray,michigan,34100
+dodge,caravan,2019,clean vehicle,41126.0,silver,nevada,14600
+dodge,caravan,2019,clean vehicle,14098.0,red,pennsylvania,18200
+dodge,durango,2019,clean vehicle,15003.0,black,michigan,33800
+dodge,journey,2019,clean vehicle,29105.0,black,nevada,15900
+dodge,caravan,2019,clean vehicle,34794.0,black,pennsylvania,16500
+dodge,durango,2019,clean vehicle,20034.0,silver,michigan,29600
+dodge,caravan,2019,clean vehicle,46942.0,black,nevada,14100
+dodge,caravan,2019,clean vehicle,14753.0,white,pennsylvania,18200
+dodge,caravan,2019,clean vehicle,14359.0,black,pennsylvania,18200
+dodge,charger,2019,clean vehicle,34922.0,black,michigan,24300
+dodge,journey,2019,clean vehicle,20944.0,white,nevada,15400
+dodge,journey,2019,clean vehicle,9877.0,white,pennsylvania,19000
+dodge,journey,2019,clean vehicle,8949.0,black,pennsylvania,19000
+dodge,challenger,2017,clean vehicle,13627.0,gray,georgia,27800
+dodge,journey,2019,clean vehicle,18291.0,blue,pennsylvania,18200
+dodge,journey,2018,clean vehicle,38029.0,white,pennsylvania,15000
+dodge,caravan,2017,clean vehicle,32593.0,gray,michigan,19200
+dodge,caravan,2018,clean vehicle,37352.0,red,pennsylvania,15500
+dodge,challenger,2017,clean vehicle,23030.0,green,michigan,24900
+dodge,journey,2018,clean vehicle,30671.0,red,pennsylvania,15500
+dodge,door,2012,salvage insurance,79544.0,white,texas,7600
+dodge,journey,2017,clean vehicle,15027.0,black,michigan,18400
+dodge,caravan,2018,clean vehicle,29115.0,white,florida,14700
+dodge,door,2015,clean vehicle,93604.0,white,florida,3900
+dodge,door,2015,clean vehicle,100203.0,black,florida,5200
+dodge,caravan,2019,clean vehicle,35401.0,silver,minnesota,17200
+dodge,caravan,2019,clean vehicle,20279.0,red,minnesota,18700
+dodge,durango,2019,clean vehicle,26090.0,red,minnesota,32000
+dodge,door,2015,clean vehicle,107924.0,white,michigan,14500
+dodge,caravan,2019,clean vehicle,14906.0,black,minnesota,19400
+dodge,caravan,2019,clean vehicle,34407.0,black,minnesota,17300
+dodge,journey,2019,clean vehicle,18049.0,orange,minnesota,16700
+dodge,caravan,2019,clean vehicle,18132.0,white,minnesota,19100
+dodge,door,2013,clean vehicle,109176.0,black,illinois,11100
+dodge,durango,2019,clean vehicle,25456.0,black,minnesota,32000
+dodge,caravan,2019,clean vehicle,38375.0,silver,minnesota,16900
+dodge,charger,2017,clean vehicle,39792.0,blue,massachusetts,18000
+dodge,caravan,2019,clean vehicle,30403.0,white,minnesota,17800
+dodge,caravan,2019,clean vehicle,28252.0,white,minnesota,18000
+dodge,caravan,2019,clean vehicle,31904.0,white,minnesota,17500
+dodge,caravan,2018,clean vehicle,24336.0,silver,nevada,14500
+dodge,caravan,2019,clean vehicle,23961.0,silver,minnesota,18500
+dodge,caravan,2019,clean vehicle,22919.0,silver,minnesota,18600
+dodge,durango,2019,clean vehicle,22863.0,red,minnesota,32000
+dodge,caravan,2019,clean vehicle,38817.0,black,minnesota,17000
+dodge,caravan,2019,clean vehicle,48854.0,white,minnesota,16000
+dodge,caravan,2019,clean vehicle,27288.0,white,minnesota,18000
+dodge,charger,2020,clean vehicle,5284.0,orange,pennsylvania,15900
+dodge,door,2016,clean vehicle,99988.0,silver,alabama,6200
+dodge,door,2013,clean vehicle,84109.0,black,alabama,3700
+dodge,door,2012,clean vehicle,88539.0,white,mississippi,24000
+dodge,van,2013,clean vehicle,33739.0,gold,nevada,20800
+dodge,door,2012,clean vehicle,101017.0,white,mississippi,18500
+dodge,challenger,2019,clean vehicle,13906.0,black,pennsylvania,18300
+dodge,charger,2019,clean vehicle,20601.0,gray,pennsylvania,21000
+dodge,van,2013,salvage insurance,135561.0,white,tennessee,1300
+dodge,charger,2019,clean vehicle,23421.0,gray,pennsylvania,11900
+dodge,van,2012,salvage insurance,145174.0,white,maryland,950
+dodge,durango,2019,clean vehicle,21309.0,gray,pennsylvania,26800
+dodge,van,2012,salvage insurance,217576.0,orange,north carolina,800
+dodge,caravan,2019,clean vehicle,10350.0,white,pennsylvania,21000
+dodge,door,2012,salvage insurance,157636.0,orange,georgia,1900
+dodge,durango,2019,clean vehicle,8605.0,white,pennsylvania,33500
+dodge,door,2013,salvage insurance,139404.0,blue,connecticut,900
+dodge,caravan,2019,clean vehicle,10170.0,gray,pennsylvania,21000
+dodge,durango,2019,clean vehicle,22272.0,silver,pennsylvania,26800
+dodge,van,2016,clean vehicle,101906.0,blue,texas,5700
+dodge,challenger,2019,clean vehicle,27019.0,green,pennsylvania,18500
+dodge,durango,2019,clean vehicle,10930.0,white,pennsylvania,33000
+dodge,caravan,2019,clean vehicle,73552.0,silver,texas,11000
+dodge,caravan,2019,clean vehicle,37107.0,blue,pennsylvania,15800
+dodge,door,2013,salvage insurance,124247.0,white,michigan,3600
+dodge,caravan,2019,clean vehicle,36993.0,white,pennsylvania,16300
+dodge,door,2015,clean vehicle,67133.0,white,texas,2700
+dodge,caravan,2019,clean vehicle,33580.0,no_color,pennsylvania,12800
+dodge,door,2015,clean vehicle,94140.0,black,texas,9700
+dodge,journey,2019,clean vehicle,10447.0,silver,pennsylvania,18300
+dodge,charger,2019,clean vehicle,10229.0,silver,illinois,16000
+dodge,caravan,2019,clean vehicle,6269.0,gray,pennsylvania,21000
+dodge,door,2014,clean vehicle,98699.0,white,texas,3700
+dodge,durango,2019,clean vehicle,10631.0,gray,illinois,33000
+dodge,caravan,2019,clean vehicle,44381.0,silver,pennsylvania,14700
+dodge,durango,2019,clean vehicle,13960.0,silver,illinois,33000
+dodge,caravan,2019,clean vehicle,14051.0,white,pennsylvania,15900
+dodge,durango,2019,clean vehicle,20800.0,gray,illinois,33000
+dodge,durango,2019,clean vehicle,8873.0,gray,illinois,33000
+dodge,durango,2019,clean vehicle,15502.0,black,illinois,32500
+dodge,durango,2019,clean vehicle,9669.0,silver,illinois,33000
+dodge,caravan,2018,clean vehicle,50873.0,black,virginia,13000
+dodge,durango,2019,clean vehicle,14117.0,white,illinois,33000
+dodge,charger,2019,clean vehicle,46820.0,red,illinois,16500
+dodge,durango,2019,clean vehicle,7247.0,gray,illinois,33000
+dodge,challenger,2017,clean vehicle,40991.0,red,north carolina,34500
+dodge,durango,2019,clean vehicle,9023.0,white,illinois,33500
+dodge,durango,2018,clean vehicle,8047.0,white,pennsylvania,48000
+dodge,durango,2019,clean vehicle,3966.0,red,illinois,54500
+dodge,caravan,2018,clean vehicle,41014.0,silver,pennsylvania,13200
+dodge,durango,2018,clean vehicle,20907.0,white,illinois,31500
+dodge,durango,2017,clean vehicle,89795.0,red,illinois,17400
+dodge,durango,2017,clean vehicle,57158.0,white,illinois,26000
+dodge,door,2013,salvage insurance,126718.0,orange,texas,1700
+dodge,door,2013,clean vehicle,83976.0,white,illinois,11000
+dodge,charger,2018,clean vehicle,12554.0,gray,texas,21000
+dodge,door,2015,clean vehicle,60707.0,gray,texas,5500
+dodge,door,2014,clean vehicle,40110.0,red,texas,7500
+dodge,caravan,2019,clean vehicle,28038.0,silver,michigan,15800
+dodge,journey,2019,clean vehicle,26643.0,red,michigan,16900
+dodge,durango,2019,clean vehicle,36127.0,white,michigan,25000
+dodge,door,2019,salvage insurance,19983.0,black,massachusetts,18000
+dodge,caravan,2019,clean vehicle,29926.0,black,michigan,15600
+dodge,durango,2019,clean vehicle,36750.0,white,north carolina,23800
+dodge,journey,2019,clean vehicle,27312.0,black,michigan,16800
+dodge,durango,2019,clean vehicle,49575.0,white,north carolina,22700
+dodge,challenger,2019,clean vehicle,30279.0,red,north carolina,23300
+dodge,challenger,2019,clean vehicle,25825.0,white,north carolina,23500
+dodge,durango,2019,clean vehicle,32474.0,silver,north carolina,25500
+dodge,challenger,2019,clean vehicle,30585.0,white,north carolina,21800
+dodge,durango,2019,clean vehicle,36203.0,gray,north carolina,22800
+dodge,caravan,2019,clean vehicle,29602.0,red,michigan,18200
+dodge,challenger,2019,clean vehicle,28689.0,red,north carolina,23500
+dodge,durango,2019,clean vehicle,31447.0,charcoal,north carolina,25700
+dodge,caravan,2019,clean vehicle,39148.0,white,north carolina,15700
+dodge,journey,2018,clean vehicle,33495.0,silver,michigan,17500
+dodge,caravan,2019,clean vehicle,35274.0,white,north carolina,15700
+dodge,caravan,2018,clean vehicle,48745.0,white,indiana,16500
+dodge,caravan,2019,clean vehicle,31297.0,red,north carolina,16100
+dodge,caravan,2019,clean vehicle,38745.0,charcoal,north carolina,15600
+dodge,caravan,2019,clean vehicle,37704.0,gray,north carolina,15400
+dodge,durango,2017,clean vehicle,27060.0,white,michigan,28200
+dodge,caravan,2019,clean vehicle,40002.0,no_color,north carolina,15300
+dodge,caravan,2019,clean vehicle,34930.0,red,north carolina,15900
+dodge,door,2016,clean vehicle,22863.0,gray,indiana,17700
+dodge,caravan,2019,clean vehicle,36876.0,white,north carolina,15800
+dodge,caravan,2019,clean vehicle,34264.0,charcoal,north carolina,15900
+dodge,charger,2019,clean vehicle,17515.0,red,new mexico,25300
+dodge,caravan,2019,clean vehicle,27071.0,silver,north carolina,16300
+dodge,durango,2019,clean vehicle,14656.0,gray,new mexico,29500
+dodge,caravan,2019,clean vehicle,35652.0,gray,north carolina,14500
+dodge,caravan,2019,clean vehicle,30055.0,no_color,north carolina,15400
+dodge,caravan,2019,clean vehicle,43088.0,charcoal,north carolina,15400
+dodge,caravan,2019,clean vehicle,33641.0,purple,north carolina,15100
+dodge,caravan,2019,clean vehicle,34797.0,black,north carolina,15000
+dodge,caravan,2019,clean vehicle,43943.0,gray,north carolina,15500
+dodge,caravan,2019,clean vehicle,35744.0,no_color,north carolina,15000
+dodge,caravan,2019,clean vehicle,31542.0,no_color,north carolina,15200
+dodge,caravan,2019,clean vehicle,26899.0,white,north carolina,15700
+dodge,journey,2019,clean vehicle,29985.0,silver,north carolina,16100
+dodge,journey,2018,clean vehicle,37009.0,silver,texas,16300
+dodge,journey,2019,clean vehicle,30731.0,white,north carolina,16000
+dodge,journey,2019,clean vehicle,30062.0,silver,north carolina,16900
+dodge,journey,2019,clean vehicle,28295.0,charcoal,north carolina,17000
+dodge,journey,2019,clean vehicle,25534.0,silver,north carolina,17300
+dodge,journey,2019,clean vehicle,29716.0,gray,north carolina,15900
+dodge,journey,2019,clean vehicle,34294.0,silver,north carolina,15700
+dodge,journey,2019,clean vehicle,27643.0,white,north carolina,16900
+dodge,journey,2019,clean vehicle,35516.0,white,north carolina,15500
+dodge,journey,2019,clean vehicle,40674.0,silver,north carolina,15100
+dodge,journey,2019,clean vehicle,32494.0,white,north carolina,15500
+dodge,journey,2019,clean vehicle,35047.0,red,north carolina,15400
+dodge,journey,2019,clean vehicle,32898.0,silver,north carolina,16500
+dodge,challenger,2015,clean vehicle,13740.0,black,texas,42500
+dodge,journey,2019,clean vehicle,23132.0,charcoal,north carolina,16600
+dodge,journey,2019,clean vehicle,37174.0,silver,north carolina,15200
+dodge,journey,2019,clean vehicle,34023.0,charcoal,north carolina,15800
+dodge,journey,2019,clean vehicle,30021.0,charcoal,north carolina,16900
+dodge,caravan,2017,clean vehicle,51469.0,gray,north carolina,11100
+dodge,journey,2019,clean vehicle,31237.0,charcoal,north carolina,15600
+dodge,journey,2019,clean vehicle,30186.0,silver,north carolina,16900
+dodge,journey,2019,clean vehicle,41956.0,silver,north carolina,15300
+dodge,journey,2019,clean vehicle,30727.0,black,north carolina,16600
+dodge,durango,2017,clean vehicle,38956.0,black,pennsylvania,21800
+dodge,charger,2018,clean vehicle,22036.0,white,virginia,36500
+dodge,durango,2019,clean vehicle,26462.0,red,georgia,26300
+dodge,challenger,2019,clean vehicle,23143.0,red,georgia,20900
+dodge,challenger,2019,clean vehicle,17340.0,gray,georgia,20100
+dodge,charger,2019,clean vehicle,29749.0,gray,georgia,26700
+dodge,charger,2019,clean vehicle,35248.0,white,georgia,23900
+dodge,caravan,2018,clean vehicle,40417.0,no_color,florida,14500
+dodge,durango,2017,clean vehicle,30309.0,gray,virginia,23000
+dodge,journey,2018,clean vehicle,42303.0,red,north carolina,15000
+dodge,journey,2018,clean vehicle,35326.0,white,north carolina,15000
+ford,door,2017,clean vehicle,92100.0,white,texas,28500
+ford,door,2017,clean vehicle,99375.0,white,texas,28000
+ford,door,2017,clean vehicle,72418.0,gray,texas,9000
+ford,doors,2015,clean vehicle,29733.0,ruby red metallic tinted clearcoat,connecticut,28700
+ford,door,2017,clean vehicle,119439.0,white,texas,25000
+ford,doors,2015,clean vehicle,54396.0,black,massachusetts,17347
+ford,door,2016,clean vehicle,91606.0,white,texas,13800
+ford,doors,2015,clean vehicle,2807.0,black,new jersey,25888
+ford,fusion,2017,clean vehicle,78739.0,black,tennessee,8500
+ford,doors,2015,clean vehicle,71955.0,gray,new york,21289
+ford,doors,2015,clean vehicle,48472.0,triple yellow tri-coat,new jersey,17999
+ford,door,2012,clean vehicle,98470.0,blue,texas,2700
+ford,doors,2015,clean vehicle,28937.0,competition orange,pennsylvania,30977
+ford,doors,2015,clean vehicle,83693.0,red,new jersey,13799
+ford,srw,2014,clean vehicle,90888.0,white,arizona,20500
+ford,drw,2012,clean vehicle,216942.0,white,texas,8500
+ford,door,2015,clean vehicle,205796.0,white,florida,9900
+ford,srw,2019,clean vehicle,6500.0,black,indiana,65500
+ford,wagon,2018,clean vehicle,39943.0,white,florida,24500
+ford,explorer,2020,clean vehicle,5920.0,silver,missouri,32500
+ford,fusion,2018,clean vehicle,71478.0,blue,pennsylvania,9200
+ford,door,2017,clean vehicle,119520.0,silver,pennsylvania,17700
+ford,fusion,2020,clean vehicle,10882.0,white,california,18300
+ford,srw,2019,clean vehicle,29010.0,gray,illinois,43500
+ford,door,2016,clean vehicle,69003.0,white,pennsylvania,15200
+ford,srw,2019,clean vehicle,16207.0,no_color,illinois,36200
+ford,mustang,2018,clean vehicle,29748.0,red,new jersey,21900
+ford,wagon,2019,clean vehicle,25582.0,white,california,20700
+ford,fusion,2019,clean vehicle,24520.0,gray,california,12300
+ford,door,2016,clean vehicle,104383.0,blue,pennsylvania,4200
+ford,transit,2019,clean vehicle,34164.0,white,california,19500
+ford,fusion,2020,clean vehicle,6975.0,silver,california,14300
+ford,van,2016,clean vehicle,67150.0,white,pennsylvania,13700
+ford,door,2015,clean vehicle,100820.0,white,pennsylvania,13200
+ford,door,2014,clean vehicle,142286.0,white,pennsylvania,6200
+ford,door,2015,clean vehicle,60015.0,black,pennsylvania,6500
+ford,door,2013,clean vehicle,126381.0,gray,pennsylvania,1500
+ford,door,2013,clean vehicle,128753.0,black,pennsylvania,2200
+ford,door,2013,clean vehicle,0.0,no_color,pennsylvania,4200
+ford,van,2013,clean vehicle,64598.0,white,pennsylvania,8700
+ford,door,2012,clean vehicle,111532.0,black,pennsylvania,3200
+ford,door,2012,clean vehicle,149346.0,black,pennsylvania,9000
+ford,edge,2018,clean vehicle,43567.0,silver,illinois,20000
+ford,door,2017,clean vehicle,36004.0,white,texas,33000
+ford,f-150,2019,clean vehicle,10935.0,white,south carolina,23300
+ford,van,2017,clean vehicle,150484.0,white,illinois,8750
+ford,door,2012,clean vehicle,122014.0,white,texas,11975
+ford,transit,2019,clean vehicle,19363.0,white,south carolina,23600
+ford,explorer,2016,clean vehicle,42902.0,black,texas,12000
+ford,f-150,2018,clean vehicle,401.0,red,indiana,30900
+ford,transit,2019,clean vehicle,11077.0,white,south carolina,23900
+ford,f-150,2018,clean vehicle,34100.0,black,indiana,40400
+ford,srw,2019,clean vehicle,30018.0,white,minnesota,38000
+ford,flex,2019,clean vehicle,18279.0,white,illinois,27000
+ford,transit,2019,clean vehicle,7373.0,white,south carolina,24000
+ford,ranger,2019,clean vehicle,2590.0,gray,wisconsin,30000
+ford,fusion,2019,clean vehicle,41662.0,white,south carolina,16200
+ford,flex,2019,clean vehicle,15019.0,gray,wisconsin,30000
+ford,transit,2019,clean vehicle,9420.0,white,south carolina,23900
+ford,taurus,2018,clean vehicle,41864.0,white,missouri,13800
+ford,transit,2019,clean vehicle,16829.0,white,south carolina,23700
+ford,f-150,2018,clean vehicle,6290.0,gray,illinois,24300
+ford,srw,2019,clean vehicle,14393.0,black,nevada,54900
+ford,taurus,2018,clean vehicle,14599.0,white,wisconsin,22500
+ford,f-150,2018,clean vehicle,25839.0,gray,illinois,39000
+ford,escape,2018,clean vehicle,60715.0,gray,wisconsin,13900
+ford,explorer,2018,clean vehicle,23350.0,red,illinois,24700
+ford,transit,2018,clean vehicle,62386.0,white,california,20100
+ford,mustang,2018,clean vehicle,6248.0,red,illinois,22000
+ford,mustang,2019,clean vehicle,878.0,green,florida,38200
+ford,transit,2018,clean vehicle,49710.0,white,california,24400
+ford,mustang,2018,clean vehicle,2042.0,blue,illinois,35000
+ford,flex,2019,clean vehicle,7742.0,white,florida,18600
+ford,transit,2018,clean vehicle,39733.0,white,california,22700
+ford,f-150,2018,clean vehicle,33701.0,black,illinois,38000
+ford,door,2014,clean vehicle,67542.0,red,illinois,17000
+ford,escape,2017,clean vehicle,35095.0,gray,wisconsin,17500
+ford,f-150,2019,clean vehicle,8652.0,white,michigan,23200
+ford,explorer,2017,clean vehicle,51107.0,red,wisconsin,30700
+ford,transit,2019,clean vehicle,14987.0,white,michigan,23500
+ford,edge,2017,clean vehicle,28252.0,blue,wisconsin,26400
+ford,transit,2019,clean vehicle,16009.0,white,michigan,23500
+ford,door,2017,clean vehicle,47866.0,white,wisconsin,38000
+ford,transit,2019,clean vehicle,11004.0,white,michigan,23600
+ford,edge,2017,clean vehicle,42895.0,gray,wisconsin,19300
+ford,f-150,2019,clean vehicle,9490.0,white,michigan,23200
+ford,door,2017,clean vehicle,39027.0,no_color,wisconsin,13800
+ford,transit,2019,clean vehicle,13466.0,white,michigan,23600
+ford,f-150,2019,clean vehicle,8737.0,white,michigan,23200
+ford,door,2017,clean vehicle,23960.0,red,wisconsin,40000
+ford,f-150,2019,clean vehicle,5562.0,white,michigan,23400
+ford,transit,2019,clean vehicle,13763.0,white,michigan,23600
+ford,f-150,2019,clean vehicle,10444.0,white,michigan,23000
+ford,door,2017,clean vehicle,41696.0,black,wisconsin,25500
+ford,transit,2019,clean vehicle,15787.0,white,michigan,23500
+ford,door,2017,clean vehicle,9167.0,white,wisconsin,29900
+ford,transit,2019,clean vehicle,17541.0,white,michigan,23200
+ford,f-150,2017,clean vehicle,24686.0,silver,wisconsin,50500
+ford,transit,2019,clean vehicle,15210.0,white,michigan,23400
+ford,transit,2017,clean vehicle,54601.0,white,wisconsin,24500
+ford,mustang,2017,clean vehicle,2205.0,black,illinois,49000
+ford,transit,2017,clean vehicle,35691.0,white,wisconsin,25400
+ford,flex,2017,clean vehicle,32788.0,silver,illinois,23000
+ford,door,2012,clean vehicle,180471.0,gray,minnesota,6000
+ford,edge,2016,clean vehicle,42925.0,black,wisconsin,22400
+ford,edge,2016,clean vehicle,37385.0,black,wisconsin,22500
+ford,edge,2019,clean vehicle,15415.0,gray,virginia,25200
+ford,door,2016,clean vehicle,20047.0,white,wisconsin,36000
+ford,edge,2019,clean vehicle,16884.0,black,virginia,26700
+ford,door,2016,clean vehicle,57936.0,gray,wisconsin,30500
+ford,edge,2019,clean vehicle,15244.0,black,virginia,26700
+ford,edge,2019,clean vehicle,19842.0,gray,virginia,25000
+ford,door,2016,clean vehicle,38830.0,white,wisconsin,35200
+ford,f-150,2019,clean vehicle,31899.0,white,tennessee,30300
+ford,door,2016,clean vehicle,69305.0,no_color,illinois,25000
+ford,door,2016,clean vehicle,46098.0,red,wisconsin,26500
+ford,mustang,2019,clean vehicle,29457.0,gray,virginia,21600
+ford,edge,2016,clean vehicle,30765.0,no_color,wisconsin,18800
+ford,mustang,2019,clean vehicle,29096.0,red,virginia,21500
+ford,door,2016,clean vehicle,40437.0,no_color,new jersey,9000
+ford,cutaway,2015,clean vehicle,69004.0,white,wisconsin,16700
+ford,cutaway,2015,clean vehicle,65179.0,white,wisconsin,16800
+ford,cutaway,2015,clean vehicle,75862.0,white,wisconsin,15700
+ford,cutaway,2015,clean vehicle,68319.0,white,wisconsin,16800
+ford,door,2015,clean vehicle,80354.0,gray,wisconsin,19500
+ford,door,2015,clean vehicle,51441.0,black,wisconsin,20500
+ford,cutaway,2015,clean vehicle,70954.0,white,wisconsin,17400
+ford,door,2014,clean vehicle,92500.0,red,wisconsin,17500
+ford,door,2014,clean vehicle,66367.0,silver,illinois,26000
+ford,f-150,2019,clean vehicle,13884.0,white,kentucky,56700
+ford,door,2013,clean vehicle,202565.0,no_color,wisconsin,5000
+ford,f-150,2019,clean vehicle,26484.0,no_color,kentucky,40200
+ford,door,2013,clean vehicle,703.0,red,illinois,54000
+ford,max,2019,clean vehicle,18138.0,white,kentucky,65200
+ford,srw,2017,clean vehicle,28007.0,white,minnesota,32500
+ford,transit,2019,clean vehicle,11251.0,white,illinois,25500
+ford,srw,2019,clean vehicle,11640.0,no_color,illinois,63000
+ford,srw,2019,clean vehicle,10763.0,white,illinois,44000
+ford,drw,2019,clean vehicle,9643.0,no_color,illinois,70000
+ford,srw,2019,clean vehicle,33930.0,gray,kentucky,56200
+ford,srw,2019,clean vehicle,26451.0,white,wisconsin,35000
+ford,srw,2019,clean vehicle,21101.0,red,kentucky,57700
+ford,drw,2019,clean vehicle,10536.0,no_color,illinois,74000
+ford,srw,2019,clean vehicle,31744.0,white,kentucky,60200
+ford,srw,2018,clean vehicle,18062.0,black,illinois,60000
+ford,srw,2018,clean vehicle,17942.0,black,illinois,63000
+ford,door,2014,clean vehicle,43646.0,black,wisconsin,22500
+ford,energi,2014,clean vehicle,71989.0,gray,wisconsin,8300
+ford,door,2012,clean vehicle,138328.0,white,wisconsin,8300
+ford,door,2013,clean vehicle,95386.0,brown,wisconsin,21000
+ford,fusion,2019,clean vehicle,23740.0,black,mississippi,19300
+ford,fusion,2019,clean vehicle,36064.0,gray,alabama,16400
+ford,f-150,2019,clean vehicle,18805.0,gray,mississippi,27300
+ford,cab,2012,clean vehicle,151035.0,white,wisconsin,26400
+ford,mustang,2019,clean vehicle,10099.0,red,mississippi,35100
+ford,f-150,2018,clean vehicle,9800.0,black,new jersey,41500
+ford,mustang,2019,clean vehicle,10483.0,white,mississippi,34100
+ford,f-150,2019,clean vehicle,17544.0,no_color,california,28600
+ford,mustang,2019,clean vehicle,10167.0,red,mississippi,34100
+ford,ranger,2019,clean vehicle,11457.0,gray,california,28700
+ford,edge,2019,clean vehicle,26590.0,no_color,california,24700
+ford,expedition,2019,clean vehicle,35346.0,black,california,46500
+ford,f-150,2019,clean vehicle,12953.0,black,california,29000
+ford,edge,2019,clean vehicle,26693.0,silver,california,25500
+ford,f-150,2019,clean vehicle,25071.0,yellow,california,39500
+ford,f-150,2019,clean vehicle,33538.0,yellow,california,33100
+ford,f-150,2019,clean vehicle,9915.0,gray,california,30500
+ford,fiesta,2018,clean vehicle,1.0,silver,arizona,3600
+ford,fusion,2019,clean vehicle,9910.0,red,california,16800
+ford,f-150,2019,clean vehicle,16765.0,gray,texas,24000
+ford,expedition,2019,clean vehicle,4970.0,gray,california,58500
+ford,door,2017,clean vehicle,43964.0,black,texas,55000
+ford,f-150,2019,clean vehicle,40785.0,silver,california,28800
+ford,door,2015,clean vehicle,108998.0,white,new jersey,26800
+ford,max,2018,clean vehicle,58576.0,gray,wisconsin,36000
+ford,wagon,2018,clean vehicle,55475.0,white,wisconsin,20000
+ford,drw,2019,clean vehicle,35929.0,black,alabama,46700
+ford,srw,2019,clean vehicle,21669.0,silver,alabama,42800
+ford,mustang,2018,clean vehicle,16079.0,no_color,california,21800
+ford,mustang,2018,clean vehicle,41147.0,white,california,18800
+ford,flex,2018,clean vehicle,45798.0,black,california,18800
+ford,f-150,2018,clean vehicle,21703.0,red,california,30200
+ford,explorer,2018,clean vehicle,22284.0,black,california,27500
+ford,transit,2018,clean vehicle,24567.0,white,california,37500
+ford,mustang,2018,clean vehicle,30594.0,silver,california,19100
+ford,flex,2018,clean vehicle,52747.0,white,california,17100
+ford,escape,2018,clean vehicle,21592.0,silver,florida,13500
+ford,srw,2018,clean vehicle,19853.0,blue,california,54500
+ford,fiesta,2018,clean vehicle,25201.0,gray,florida,9000
+ford,f-150,2020,clean vehicle,10351.0,black,pennsylvania,16400
+ford,fusion,2020,clean vehicle,1117.0,gray,pennsylvania,17000
+ford,door,2017,clean vehicle,37279.0,gold,california,24800
+ford,door,2017,clean vehicle,30113.0,red,california,26800
+ford,door,2017,clean vehicle,27570.0,white,california,19400
+ford,flex,2017,clean vehicle,45188.0,silver,california,20000
+ford,door,2012,clean vehicle,149712.0,silver,texas,7000
+ford,explorer,2017,clean vehicle,25030.0,gold,california,25100
+ford,door,2013,salvage insurance,105743.0,gray,oklahoma,2000
+ford,fusion,2020,clean vehicle,9861.0,black,pennsylvania,18200
+ford,fusion,2018,clean vehicle,1751.0,red,illinois,14200
+ford,door,2017,clean vehicle,30629.0,red,california,56500
+ford,door,2016,salvage insurance,52883.0,gray,oklahoma,2000
+ford,van,2020,clean vehicle,122.0,white,pennsylvania,26500
+ford,srw,2019,clean vehicle,28534.0,white,florida,34300
+ford,f-150,2017,clean vehicle,80699.0,black,california,43500
+ford,door,2016,salvage insurance,72851.0,white,oklahoma,3500
+ford,srw,2019,clean vehicle,24078.0,white,florida,37200
+ford,door,2017,clean vehicle,38639.0,orange,california,12800
+ford,door,2013,salvage insurance,146807.0,silver,texas,15000
+ford,door,2017,clean vehicle,31871.0,silver,california,12500
+ford,f-150,2017,clean vehicle,76876.0,gray,california,21500
+ford,fusion,2019,clean vehicle,28070.0,white,north carolina,17300
+ford,explorer,2017,clean vehicle,3189.0,silver,california,27000
+ford,el,2017,clean vehicle,28359.0,white,florida,31800
+ford,door,2017,clean vehicle,42890.0,gray,california,13000
+ford,el,2017,clean vehicle,29328.0,silver,florida,31800
+ford,door,2016,clean vehicle,47531.0,black,california,46300
+ford,door,2015,clean vehicle,57345.0,gray,missouri,6000
+ford,door,2016,clean vehicle,67546.0,silver,california,22800
+ford,expedition,2019,clean vehicle,18153.0,white,pennsylvania,45000
+ford,expedition,2019,clean vehicle,17689.0,black,pennsylvania,49500
+ford,van,2012,clean vehicle,137171.0,white,missouri,3000
+ford,door,2015,clean vehicle,63445.0,gray,california,20000
+ford,edge,2019,clean vehicle,26422.0,black,pennsylvania,25300
+ford,door,2015,salvage insurance,149319.0,white,south carolina,4000
+ford,expedition,2019,clean vehicle,18767.0,gray,pennsylvania,45500
+ford,fiesta,2018,clean vehicle,38289.0,silver,minnesota,9100
+ford,expedition,2019,clean vehicle,22960.0,black,pennsylvania,48000
+ford,max,2019,clean vehicle,17263.0,blue,pennsylvania,47000
+ford,expedition,2019,clean vehicle,16981.0,black,pennsylvania,49500
+ford,wagon,2019,clean vehicle,13058.0,black,pennsylvania,31200
+ford,door,2014,clean vehicle,45887.0,white,california,18500
+ford,escape,2019,clean vehicle,21740.0,silver,pennsylvania,15500
+ford,wagon,2019,clean vehicle,17707.0,black,pennsylvania,30500
+ford,max,2019,clean vehicle,19121.0,silver,pennsylvania,45500
+ford,wagon,2019,clean vehicle,18856.0,black,pennsylvania,31500
+ford,door,2013,clean vehicle,84752.0,white,new jersey,11000
+ford,max,2019,clean vehicle,19555.0,white,pennsylvania,46500
+ford,wagon,2019,clean vehicle,16340.0,black,pennsylvania,31500
+ford,f-150,2018,clean vehicle,17242.0,white,ohio,32000
+ford,edge,2019,clean vehicle,28733.0,black,pennsylvania,23900
+ford,wagon,2019,clean vehicle,16019.0,black,pennsylvania,31500
+ford,taurus,2016,clean vehicle,75580.0,black,ohio,18500
+ford,door,2013,salvage insurance,113444.0,white,georgia,1500
+ford,max,2019,clean vehicle,19227.0,white,pennsylvania,46000
+ford,wagon,2019,clean vehicle,13633.0,black,pennsylvania,31500
+ford,van,2015,clean vehicle,37739.0,white,new jersey,14700
+ford,door,2013,salvage insurance,103541.0,green,michigan,2700
+ford,expedition,2019,clean vehicle,24072.0,blue,pennsylvania,47500
+ford,wagon,2019,clean vehicle,17657.0,black,pennsylvania,31500
+ford,door,2014,clean vehicle,77392.0,red,new jersey,8900
+ford,door,2019,salvage insurance,11930.0,white,michigan,7000
+ford,expedition,2019,clean vehicle,19731.0,red,pennsylvania,49000
+ford,wagon,2019,clean vehicle,15581.0,black,pennsylvania,31500
+ford,door,2014,clean vehicle,70181.0,black,new jersey,8900
+ford,max,2019,clean vehicle,16143.0,black,pennsylvania,48000
+ford,max,2019,clean vehicle,17995.0,black,pennsylvania,50000
+ford,max,2019,clean vehicle,23926.0,black,pennsylvania,47300
+ford,f-150,2017,clean vehicle,57929.0,black,louisiana,45000
+ford,max,2019,clean vehicle,20758.0,silver,pennsylvania,49000
+ford,f-150,2019,clean vehicle,10028.0,gray,texas,40200
+ford,max,2019,clean vehicle,21051.0,black,pennsylvania,48000
+ford,door,2015,clean vehicle,136307.0,silver,louisiana,5000
+ford,bus,2013,clean vehicle,105880.0,silver,new jersey,8200
+ford,max,2019,clean vehicle,19985.0,white,pennsylvania,49000
+ford,door,2015,clean vehicle,102590.0,gray,louisiana,4000
+ford,expedition,2019,clean vehicle,27612.0,silver,pennsylvania,39000
+ford,door,2015,clean vehicle,90855.0,white,louisiana,29000
+ford,max,2019,clean vehicle,19936.0,silver,pennsylvania,46500
+ford,door,2015,clean vehicle,64495.0,gray,louisiana,7805
+ford,mustang,2018,clean vehicle,39477.0,gray,texas,22000
+ford,max,2019,clean vehicle,25698.0,black,pennsylvania,18800
+ford,door,2015,clean vehicle,73849.0,blue,louisiana,33000
+ford,expedition,2019,clean vehicle,25422.0,black,pennsylvania,39500
+ford,door,2015,clean vehicle,47866.0,black,louisiana,16900
+ford,max,2019,clean vehicle,31236.0,white,pennsylvania,42500
+ford,expedition,2019,clean vehicle,26755.0,gray,pennsylvania,39500
+ford,f-150,2018,clean vehicle,49177.0,blue,illinois,25500
+ford,max,2019,clean vehicle,20749.0,white,pennsylvania,49500
+ford,f-150,2018,clean vehicle,15003.0,white,illinois,25000
+ford,f-150,2019,clean vehicle,12247.0,black,pennsylvania,40000
+ford,f-150,2018,clean vehicle,1.0,black,illinois,26000
+ford,f-150,2019,clean vehicle,10808.0,silver,pennsylvania,29500
+ford,f-150,2019,clean vehicle,11263.0,white,oklahoma,23000
+ford,f-150,2018,clean vehicle,42307.0,black,illinois,25500
+ford,f-150,2019,clean vehicle,17484.0,gray,pennsylvania,44500
+ford,escape,2019,clean vehicle,37106.0,blue,missouri,15600
+ford,f-150,2019,clean vehicle,9539.0,white,oklahoma,23100
+ford,f-150,2019,clean vehicle,2384.0,gray,pennsylvania,37000
+ford,fusion,2019,clean vehicle,20590.0,gray,missouri,14500
+ford,f-150,2019,clean vehicle,13896.0,white,oklahoma,23000
+ford,f-150,2019,clean vehicle,9451.0,gray,pennsylvania,26500
+ford,fusion,2017,clean vehicle,31657.0,red,missouri,18000
+ford,expedition,2019,clean vehicle,33907.0,brown,oklahoma,35700
+ford,f-150,2019,clean vehicle,10028.0,black,pennsylvania,31000
+ford,door,2013,clean vehicle,175640.0,no_color,missouri,2000
+ford,max,2019,clean vehicle,30770.0,white,oklahoma,40400
+ford,f-150,2019,clean vehicle,15141.0,black,pennsylvania,43600
+ford,f-150,2019,clean vehicle,18431.0,white,oklahoma,22600
+ford,f-150,2019,clean vehicle,9604.0,white,pennsylvania,26000
+ford,f-150,2019,clean vehicle,9516.0,white,oklahoma,23200
+ford,f-150,2019,clean vehicle,9718.0,silver,pennsylvania,29000
+ford,f-150,2019,clean vehicle,16506.0,white,oklahoma,22800
+ford,door,2015,salvage insurance,192108.0,white,oregon,3450
+ford,f-150,2019,clean vehicle,11028.0,white,pennsylvania,31000
+ford,f-150,2019,clean vehicle,11313.0,white,oklahoma,22900
+ford,door,2014,salvage insurance,141595.0,red,oregon,3000
+ford,f-150,2019,clean vehicle,12886.0,silver,pennsylvania,28000
+ford,f-150,2019,clean vehicle,9556.0,white,oklahoma,23200
+ford,f-150,2019,clean vehicle,13269.0,blue,pennsylvania,27000
+ford,f-150,2019,clean vehicle,16770.0,white,oklahoma,22800
+ford,f-150,2019,clean vehicle,13526.0,red,pennsylvania,31500
+ford,transit,2019,clean vehicle,16391.0,white,oklahoma,23400
+ford,f-150,2019,clean vehicle,11437.0,white,pennsylvania,28000
+ford,transit,2019,clean vehicle,17964.0,white,oklahoma,23400
+ford,f-150,2018,clean vehicle,5440.0,blue,texas,28000
+ford,f-150,2019,clean vehicle,13035.0,white,pennsylvania,24900
+ford,transit,2019,clean vehicle,15759.0,white,oklahoma,23500
+ford,f-150,2018,clean vehicle,30002.0,gray,texas,36000
+ford,f-150,2019,clean vehicle,13673.0,white,pennsylvania,28700
+ford,fusion,2018,clean vehicle,24480.0,silver,oregon,16000
+ford,f-150,2019,clean vehicle,13230.0,white,pennsylvania,31000
+ford,f-150,2017,clean vehicle,137789.0,white,oregon,16500
+ford,f-150,2019,clean vehicle,13516.0,white,pennsylvania,28500
+ford,escape,2017,clean vehicle,81660.0,black,oregon,10800
+ford,f-150,2019,clean vehicle,11763.0,white,pennsylvania,28500
+ford,explorer,2017,clean vehicle,34165.0,gold,oregon,25000
+ford,f-150,2019,clean vehicle,13458.0,white,pennsylvania,31000
+ford,door,2016,clean vehicle,104867.0,black,oregon,7800
+ford,f-150,2019,clean vehicle,14004.0,white,pennsylvania,28500
+ford,door,2016,clean vehicle,69829.0,silver,oregon,9500
+ford,f-150,2019,clean vehicle,13405.0,silver,pennsylvania,28500
+ford,door,2016,clean vehicle,96151.0,black,oregon,14500
+ford,f-150,2019,clean vehicle,12688.0,black,pennsylvania,25000
+ford,door,2016,clean vehicle,116519.0,white,oregon,14500
+ford,f-150,2019,clean vehicle,12260.0,white,pennsylvania,28500
+ford,door,2016,clean vehicle,29367.0,silver,oregon,12100
+ford,f-150,2019,clean vehicle,18982.0,white,pennsylvania,29400
+ford,f-150,2019,clean vehicle,23795.0,silver,california,24700
+ford,door,2016,clean vehicle,76572.0,gray,oregon,8700
+ford,f-150,2019,clean vehicle,15964.0,white,pennsylvania,29500
+ford,f-150,2019,clean vehicle,28117.0,silver,california,25800
+ford,door,2016,clean vehicle,116730.0,blue,oregon,17500
+ford,f-150,2019,clean vehicle,21055.0,brown,pennsylvania,23900
+ford,f-150,2019,clean vehicle,27794.0,black,california,22900
+ford,edge,2016,clean vehicle,56995.0,black,oregon,19500
+ford,f-150,2019,clean vehicle,16625.0,gray,pennsylvania,29500
+ford,f-150,2019,clean vehicle,27689.0,gray,california,24500
+ford,door,2016,clean vehicle,39851.0,black,oregon,11000
+ford,f-150,2019,clean vehicle,31727.0,black,pennsylvania,22400
+ford,escape,2019,clean vehicle,31586.0,gray,california,15700
+ford,door,2015,clean vehicle,33717.0,black,oregon,11000
+ford,f-150,2019,clean vehicle,18418.0,black,pennsylvania,28000
+ford,fusion,2019,clean vehicle,39013.0,black,california,13500
+ford,f-150,2013,clean vehicle,125451.0,white,oregon,7300
+ford,f-150,2019,clean vehicle,21346.0,black,pennsylvania,25100
+ford,transit,2019,clean vehicle,21150.0,white,california,24100
+ford,f-150,2014,clean vehicle,103862.0,white,oregon,6500
+ford,f-150,2019,clean vehicle,22001.0,red,pennsylvania,10500
+ford,fusion,2019,clean vehicle,31261.0,gray,california,16900
+ford,door,2013,clean vehicle,140870.0,white,oregon,6000
+ford,f-150,2019,clean vehicle,14358.0,white,pennsylvania,28500
+ford,fusion,2019,clean vehicle,41672.0,silver,california,16200
+ford,f-150,2013,clean vehicle,95655.0,white,oregon,6500
+ford,flex,2019,clean vehicle,19493.0,gray,pennsylvania,24500
+ford,fusion,2019,clean vehicle,36956.0,black,california,16500
+ford,door,2017,clean vehicle,23223.0,gold,texas,56500
+ford,fusion,2019,clean vehicle,13085.0,gray,pennsylvania,10400
+ford,explorer,2018,clean vehicle,36124.0,silver,oklahoma,22800
+ford,flex,2019,clean vehicle,19147.0,white,pennsylvania,26500
+ford,flex,2019,clean vehicle,24993.0,red,pennsylvania,23800
+ford,f-150,2018,clean vehicle,41127.0,white,oklahoma,24700
+ford,fusion,2019,clean vehicle,32365.0,black,pennsylvania,12400
+ford,fusion,2019,clean vehicle,27774.0,white,pennsylvania,16600
+ford,door,2015,clean vehicle,105027.0,blue,oklahoma,11200
+ford,fusion,2019,clean vehicle,27806.0,silver,pennsylvania,15900
+ford,door,2015,clean vehicle,54198.0,blue,oklahoma,7700
+ford,fusion,2019,clean vehicle,30181.0,white,pennsylvania,15100
+ford,door,2013,clean vehicle,82670.0,black,oklahoma,7200
+ford,fusion,2019,clean vehicle,36305.0,gold,pennsylvania,15600
+ford,srw,2019,clean vehicle,10475.0,white,oklahoma,39700
+ford,fusion,2019,clean vehicle,34734.0,gray,pennsylvania,16000
+ford,door,2012,clean vehicle,186713.0,black,oklahoma,7500
+ford,srw,2017,clean vehicle,132150.0,white,oregon,15500
+ford,taurus,2019,clean vehicle,12928.0,gray,pennsylvania,19000
+ford,door,2015,clean vehicle,116539.0,silver,oklahoma,5500
+ford,drw,2018,clean vehicle,59549.0,white,oklahoma,38700
+ford,taurus,2019,clean vehicle,12174.0,red,pennsylvania,21000
+ford,door,2016,clean vehicle,96129.0,white,oklahoma,28500
+ford,drw,2018,clean vehicle,89809.0,white,oklahoma,37200
+ford,taurus,2019,clean vehicle,18202.0,white,pennsylvania,18500
+ford,door,2015,clean vehicle,128505.0,white,oklahoma,15000
+ford,drw,2017,clean vehicle,43527.0,white,oklahoma,37700
+ford,transit,2019,clean vehicle,15792.0,white,pennsylvania,22200
+ford,f-150,2019,clean vehicle,9278.0,white,georgia,39950
+ford,drw,2017,clean vehicle,41925.0,white,oklahoma,37600
+ford,taurus,2019,clean vehicle,16924.0,white,pennsylvania,18500
+ford,door,2013,clean vehicle,119869.0,silver,florida,10000
+ford,taurus,2019,clean vehicle,17260.0,silver,pennsylvania,20500
+ford,door,2013,clean vehicle,89490.0,white,florida,5700
+ford,transit,2019,clean vehicle,40772.0,white,pennsylvania,21000
+ford,transit,2019,clean vehicle,25623.0,white,pennsylvania,22500
+ford,f-150,2019,clean vehicle,11669.0,white,colorado,29000
+ford,door,2013,clean vehicle,138524.0,black,florida,13200
+ford,transit,2019,clean vehicle,13644.0,white,pennsylvania,25500
+ford,door,2016,clean vehicle,147935.0,white,texas,25700
+ford,doors,2015,clean vehicle,44456.0,charcoal,new york,18900
+ford,wagon,2019,clean vehicle,20357.0,black,pennsylvania,31500
+ford,door,2017,clean vehicle,66366.0,black,florida,45500
+ford,door,2017,clean vehicle,43532.0,gray,pennsylvania,11000
+ford,doors,2015,clean vehicle,45218.0,gray,new york,18288
+ford,door,2017,clean vehicle,85688.0,white,florida,20000
+ford,door,2016,clean vehicle,58902.0,white,pennsylvania,36600
+ford,doors,2015,clean vehicle,59869.0,silver,pennsylvania,18299
+ford,escape,2017,clean vehicle,35021.0,silver,colorado,10000
+ford,door,2012,clean vehicle,100264.0,silver,pennsylvania,4100
+ford,door,2015,clean vehicle,157057.0,off-white,texas,30995
+ford,door,2012,salvage insurance,181316.0,black,minnesota,1750
+ford,wagon,2019,clean vehicle,23222.0,black,pennsylvania,31500
+ford,door,2016,clean vehicle,87686.0,white,colorado,13500
+ford,door,2014,clean vehicle,162918.0,blue,texas,7500
+ford,door,2017,salvage insurance,0.0,black,california,650
+ford,wagon,2019,clean vehicle,32526.0,white,pennsylvania,22800
+ford,door,2016,clean vehicle,69402.0,white,colorado,11300
+ford,door,2014,clean vehicle,76336.0,white,texas,32700
+ford,door,2012,salvage insurance,163334.0,white,virginia,1350
+ford,wagon,2019,clean vehicle,47628.0,white,pennsylvania,21900
+ford,door,2014,clean vehicle,135283.0,orange,texas,11700
+ford,door,2014,salvage insurance,147903.0,white,georgia,6500
+ford,door,2014,clean vehicle,74181.0,black,colorado,9800
+ford,door,2014,clean vehicle,77386.0,white,texas,11000
+ford,door,2014,salvage insurance,123349.0,red,georgia,1150
+ford,cutaway,2013,clean vehicle,136661.0,white,colorado,13000
+ford,door,2013,clean vehicle,109600.0,silver,texas,5500
+ford,door,2014,salvage insurance,125369.0,black,massachusetts,6000
+ford,door,2013,clean vehicle,122861.0,blue,texas,11200
+ford,door,2016,salvage insurance,110826.0,gray,massachusetts,5000
+ford,f-150,2019,clean vehicle,12198.0,white,missouri,23400
+ford,door,2019,salvage insurance,45512.0,red,massachusetts,13500
+ford,f-150,2019,clean vehicle,15656.0,white,missouri,22900
+ford,fusion,2020,clean vehicle,23984.0,silver,virginia,20000
+ford,f-150,2019,clean vehicle,15821.0,white,missouri,22900
+ford,mustang,2020,clean vehicle,12748.0,red,virginia,27000
+ford,expedition,2019,clean vehicle,9865.0,blue,oklahoma,54500
+ford,fusion,2020,clean vehicle,17858.0,black,virginia,20600
+ford,f-150,2019,clean vehicle,6711.0,white,missouri,23500
+ford,expedition,2019,clean vehicle,14939.0,blue,oklahoma,53000
+ford,transit,2019,clean vehicle,15820.0,white,missouri,23600
+ford,wagon,2019,clean vehicle,6140.0,silver,oklahoma,33500
+ford,edge,2019,clean vehicle,25552.0,gray,virginia,24400
+ford,focus,2016,clean vehicle,54984.0,black,west virginia,13000
+ford,max,2019,clean vehicle,24783.0,black,virginia,48400
+ford,door,2014,clean vehicle,148442.0,silver,west virginia,26500
+ford,max,2019,clean vehicle,34191.0,white,virginia,46200
+ford,door,2013,clean vehicle,82072.0,silver,west virginia,9300
+ford,door,2012,clean vehicle,104559.0,white,west virginia,13500
+ford,edge,2019,clean vehicle,13265.0,silver,virginia,27600
+ford,door,2013,clean vehicle,133314.0,red,west virginia,7400
+ford,edge,2019,clean vehicle,22458.0,gray,virginia,26500
+ford,door,2013,clean vehicle,70106.0,white,west virginia,26000
+ford,edge,2019,clean vehicle,23712.0,black,virginia,24500
+ford,door,2012,clean vehicle,101848.0,red,west virginia,2100
+ford,ecosport,2019,clean vehicle,14994.0,black,virginia,16700
+ford,edge,2015,clean vehicle,59726.0,gray,missouri,17500
+ford,escape,2019,clean vehicle,16448.0,gray,virginia,17000
+ford,door,2015,clean vehicle,28801.0,black,oklahoma,22500
+ford,f-150,2019,clean vehicle,28938.0,gray,michigan,34500
+ford,ecosport,2019,clean vehicle,19022.0,black,virginia,16600
+ford,door,2014,clean vehicle,93832.0,silver,missouri,7500
+ford,f-150,2019,clean vehicle,25046.0,white,michigan,34500
+ford,edge,2019,clean vehicle,22318.0,black,virginia,25000
+ford,f-150,2019,clean vehicle,17301.0,gray,michigan,36000
+ford,edge,2019,clean vehicle,27413.0,gray,virginia,23700
+ford,explorer,2019,clean vehicle,39733.0,silver,michigan,28600
+ford,door,2013,clean vehicle,74195.0,brown,oklahoma,23500
+ford,explorer,2019,clean vehicle,44383.0,silver,michigan,25300
+ford,flex,2019,clean vehicle,19151.0,white,virginia,24900
+ford,f-750,2012,clean vehicle,188394.0,white,missouri,20300
+ford,fusion,2020,clean vehicle,2452.0,gray,michigan,23400
+ford,fusion,2019,clean vehicle,36252.0,silver,virginia,14600
+ford,f-150,2019,clean vehicle,27136.0,silver,virginia,25500
+ford,fusion,2019,clean vehicle,35951.0,white,virginia,14700
+ford,f-150,2019,clean vehicle,35221.0,white,virginia,33700
+ford,f-150,2019,clean vehicle,33808.0,gray,virginia,33400
+ford,f-150,2019,clean vehicle,32022.0,black,michigan,34000
+ford,fusion,2019,clean vehicle,34173.0,white,virginia,17500
+ford,fusion,2019,clean vehicle,24272.0,white,michigan,14100
+ford,f-150,2019,clean vehicle,19055.0,black,virginia,30000
+ford,fusion,2019,clean vehicle,34822.0,red,michigan,16500
+ford,f-150,2019,clean vehicle,15422.0,gray,virginia,30600
+ford,ecosport,2019,clean vehicle,24765.0,silver,nevada,12800
+ford,wagon,2019,clean vehicle,23019.0,white,virginia,26000
+ford,max,2019,clean vehicle,38243.0,black,texas,46000
+ford,ranger,2019,clean vehicle,16509.0,white,virginia,28500
+ford,edge,2019,clean vehicle,18762.0,silver,nevada,24300
+ford,explorer,2019,clean vehicle,28854.0,no_color,texas,29000
+ford,escape,2019,clean vehicle,17392.0,black,nevada,15300
+ford,mustang,2019,clean vehicle,13558.0,white,new mexico,27900
+ford,edge,2019,clean vehicle,27082.0,black,nevada,24700
+ford,escape,2019,clean vehicle,17510.0,black,texas,14400
+ford,ecosport,2019,clean vehicle,24662.0,white,nevada,15000
+ford,door,2014,clean vehicle,96076.0,black,florida,17200
+ford,ecosport,2019,clean vehicle,22858.0,white,nevada,12800
+ford,explorer,2020,clean vehicle,740.0,gray,virginia,46900
+ford,door,2013,clean vehicle,110748.0,gray,florida,2800
+ford,escape,2019,clean vehicle,25090.0,black,nevada,16200
+ford,escape,2020,clean vehicle,7.0,black,virginia,25200
+ford,max,2019,clean vehicle,34277.0,silver,nevada,34800
+ford,srw,2019,clean vehicle,34527.0,white,texas,52000
+ford,door,2017,clean vehicle,99923.0,white,texas,26000
+ford,expedition,2019,clean vehicle,39170.0,white,nevada,40600
+ford,srw,2019,clean vehicle,16569.0,no_color,texas,55000
+ford,door,2015,clean vehicle,80612.0,black,texas,5000
+ford,max,2019,clean vehicle,36616.0,black,nevada,36400
+ford,door,2015,clean vehicle,92165.0,white,texas,7500
+ford,escape,2019,clean vehicle,44778.0,silver,nevada,14700
+ford,explorer,2020,clean vehicle,2089.0,no_color,south carolina,43900
+ford,door,2013,clean vehicle,91652.0,red,texas,6400
+ford,expedition,2019,clean vehicle,35801.0,silver,nevada,41100
+ford,door,2013,clean vehicle,88781.0,white,texas,23000
+ford,escape,2019,clean vehicle,36978.0,blue,nevada,13900
+ford,door,2012,clean vehicle,189776.0,white,texas,19000
+ford,max,2019,clean vehicle,35233.0,white,nevada,34800
+ford,door,2012,clean vehicle,151641.0,white,texas,22000
+ford,escape,2019,clean vehicle,37044.0,white,nevada,16300
+ford,escape,2019,clean vehicle,15835.0,green,virginia,18800
+ford,cab,2012,clean vehicle,201187.0,white,texas,13000
+ford,max,2019,clean vehicle,41928.0,black,nevada,40900
+ford,expedition,2019,clean vehicle,37059.0,gray,virginia,47000
+ford,door,2017,clean vehicle,33763.0,red,wisconsin,12800
+ford,explorer,2019,clean vehicle,29850.0,gray,nevada,25500
+ford,escape,2019,clean vehicle,26675.0,black,virginia,17800
+ford,f-150,2019,clean vehicle,17828.0,black,nevada,25700
+ford,escape,2019,clean vehicle,29632.0,white,virginia,17200
+ford,srw,2019,clean vehicle,11544.0,white,new jersey,35000
+ford,f-150,2019,clean vehicle,21976.0,white,nevada,28800
+ford,max,2019,clean vehicle,43617.0,black,tennessee,39200
+ford,escape,2019,clean vehicle,49254.0,gray,pennsylvania,13600
+ford,f-150,2019,clean vehicle,51589.0,black,nevada,24200
+ford,max,2019,clean vehicle,41399.0,gray,virginia,46900
+ford,f-150,2019,clean vehicle,11734.0,gray,pennsylvania,26500
+ford,explorer,2019,clean vehicle,41628.0,silver,nevada,24700
+ford,focus,2017,clean vehicle,15075.0,gray,new jersey,12600
+ford,f-150,2019,clean vehicle,26591.0,red,nevada,31800
+ford,f-150,2019,clean vehicle,22906.0,white,nevada,24500
+ford,f-150,2019,clean vehicle,33462.0,white,virginia,26000
+ford,f-150,2017,clean vehicle,32747.0,gray,pennsylvania,21000
+ford,f-150,2019,clean vehicle,33717.0,white,nevada,22500
+ford,door,2017,clean vehicle,85218.0,black,pennsylvania,7700
+ford,f-150,2019,clean vehicle,23512.0,red,nevada,23100
+ford,door,2017,clean vehicle,57853.0,white,pennsylvania,9200
+ford,mustang,2019,clean vehicle,33324.0,gray,nevada,19600
+ford,door,2016,clean vehicle,23803.0,black,pennsylvania,11700
+ford,mustang,2019,clean vehicle,31260.0,blue,nevada,27300
+ford,edge,2016,clean vehicle,69428.0,white,pennsylvania,14300
+ford,transit,2019,clean vehicle,15755.0,white,nevada,23600
+ford,door,2016,clean vehicle,90946.0,gray,pennsylvania,6200
+ford,wagon,2019,clean vehicle,51370.0,white,nevada,22400
+ford,door,2016,clean vehicle,99941.0,black,pennsylvania,5700
+ford,transit,2019,clean vehicle,15456.0,white,nevada,23600
+ford,door,2016,clean vehicle,141603.0,gray,pennsylvania,4600
+ford,srw,2019,clean vehicle,2382.0,silver,nevada,37500
+ford,van,2016,clean vehicle,99544.0,white,pennsylvania,10700
+ford,srw,2019,clean vehicle,21546.0,black,nevada,31900
+ford,mustang,2019,clean vehicle,16293.0,black,georgia,31600
+ford,escape,2018,clean vehicle,40375.0,gray,nevada,12600
+ford,door,2013,clean vehicle,143191.0,gray,pennsylvania,5300
+ford,fiesta,2018,clean vehicle,363.0,blue,nevada,3900
+ford,edge,2015,clean vehicle,59656.0,gray,florida,13000
+ford,ecosport,2018,clean vehicle,37878.0,black,nevada,11800
+ford,edge,2019,clean vehicle,20628.0,black,georgia,24600
+ford,door,2014,clean vehicle,71205.0,black,florida,14500
+ford,explorer,2018,clean vehicle,26186.0,silver,nevada,24300
+ford,fusion,2018,clean vehicle,38157.0,white,nevada,12300
+ford,door,2016,clean vehicle,30325.0,blue,new jersey,14800
+ford,mustang,2018,clean vehicle,31561.0,silver,nevada,17100
+ford,door,2016,clean vehicle,66655.0,no_color,new jersey,6800
+ford,explorer,2018,clean vehicle,19029.0,blue,connecticut,20300
+ford,f-150,2018,clean vehicle,11739.0,silver,new york,26300
+ford,door,2016,clean vehicle,50423.0,silver,nevada,22500
+ford,srw,2019,clean vehicle,25638.0,gray,tennessee,41200
+ford,door,2017,clean vehicle,59798.0,gray,florida,20400
+ford,drw,2019,clean vehicle,5035.0,black,virginia,49900
+ford,escape,2017,clean vehicle,32284.0,silver,new york,12100
+ford,door,2016,clean vehicle,40371.0,blue,florida,24000
+ford,escape,2017,clean vehicle,107569.0,white,new york,9500
+ford,door,2017,clean vehicle,96451.0,silver,new jersey,9000
+ford,escape,2017,clean vehicle,94851.0,white,new jersey,9800
+ford,door,2017,clean vehicle,108727.0,silver,connecticut,7800
+ford,f-150,2017,clean vehicle,91979.0,white,new york,17200
+ford,explorer,2017,clean vehicle,76258.0,gray,new york,18800
+ford,door,2014,clean vehicle,147574.0,white,california,9800
+ford,door,2013,clean vehicle,104764.0,gray,florida,7000
+ford,max,2019,clean vehicle,16934.0,gray,nevada,44000
+ford,transit,2019,clean vehicle,13822.0,white,texas,23400
+ford,transit,2019,clean vehicle,5250.0,white,texas,30700
+ford,escape,2019,clean vehicle,33451.0,black,south carolina,15600
+ford,f-150,2019,clean vehicle,14291.0,white,texas,22600
+ford,f-150,2019,clean vehicle,16725.0,white,south carolina,22900
+ford,f-150,2019,clean vehicle,13002.0,white,texas,22800
+ford,f-150,2019,clean vehicle,18902.0,white,south carolina,22700
+ford,f-150,2019,clean vehicle,9732.0,white,texas,23000
+ford,f-150,2019,clean vehicle,18947.0,white,south carolina,22700
+ford,f-150,2019,clean vehicle,8402.0,white,north carolina,23000
+ford,f-150,2019,clean vehicle,17450.0,gray,south carolina,34400
+ford,srw,2016,clean vehicle,53986.0,gray,nevada,36500
+ford,f-150,2019,clean vehicle,15848.0,white,south carolina,23100
+ford,f-150,2019,clean vehicle,10770.0,white,south carolina,23300
+ford,f-150,2019,clean vehicle,14587.0,white,north carolina,22600
+ford,door,2016,clean vehicle,98625.0,gray,mississippi,4500
+ford,f-150,2019,clean vehicle,10916.0,white,north carolina,23000
+ford,door,2014,clean vehicle,107173.0,white,mississippi,8000
+ford,fiesta,2019,clean vehicle,10134.0,silver,north carolina,11500
+ford,door,2017,clean vehicle,43056.0,no_color,south carolina,9400
+ford,f-150,2019,clean vehicle,10655.0,white,north carolina,23000
+ford,door,2012,clean vehicle,173601.0,black,california,2800
+ford,transit,2019,clean vehicle,14231.0,white,north carolina,22600
+ford,transit,2019,clean vehicle,8985.0,white,north carolina,23000
+ford,door,2016,clean vehicle,84338.0,black,south carolina,5200
+ford,door,2017,clean vehicle,104290.0,gray,texas,19200
+ford,door,2017,clean vehicle,45592.0,red,texas,10100
+ford,door,2015,clean vehicle,103960.0,black,south carolina,6200
+ford,explorer,2016,clean vehicle,110333.0,white,texas,14000
+ford,door,2015,clean vehicle,138516.0,gray,south carolina,5000
+ford,door,2016,clean vehicle,49094.0,red,texas,9200
+ford,door,2016,clean vehicle,97526.0,black,texas,14700
+ford,door,2014,clean vehicle,87420.0,silver,south carolina,3000
+ford,door,2015,clean vehicle,67052.0,red,texas,30200
+ford,door,2013,clean vehicle,58913.0,black,south carolina,3800
+ford,door,2013,clean vehicle,999999.0,silver,south carolina,3200
+ford,van,2015,clean vehicle,14482.0,no_color,texas,21500
+ford,door,2016,clean vehicle,57084.0,white,california,4900
+ford,expedition,2017,clean vehicle,90251.0,silver,colorado,23000
+ford,door,2014,clean vehicle,97320.0,no_color,texas,11200
+ford,door,2014,clean vehicle,80652.0,white,california,10400
+ford,door,2014,clean vehicle,99816.0,black,texas,13200
+ford,door,2013,clean vehicle,115429.0,silver,texas,5200
+ford,door,2015,clean vehicle,85549.0,red,new jersey,10500
+ford,bus,2013,clean vehicle,83030.0,white,california,11900
+ford,door,2014,clean vehicle,130168.0,white,texas,21200
+ford,door,2013,clean vehicle,80090.0,white,california,23500
+ford,door,2013,clean vehicle,118593.0,white,texas,4700
+ford,door,2014,clean vehicle,143704.0,blue,texas,11100
+ford,door,2015,clean vehicle,53507.0,white,colorado,22000
+ford,door,2013,clean vehicle,48408.0,black,colorado,14000
+ford,door,2013,clean vehicle,109672.0,white,texas,9200
+ford,edge,2019,clean vehicle,28549.0,silver,minnesota,23300
+ford,door,2012,clean vehicle,114500.0,green,texas,21700
+ford,door,2012,clean vehicle,67140.0,blue,texas,11200
+ford,escape,2018,clean vehicle,42168.0,gray,north carolina,11300
+ford,cutaway,2015,salvage insurance,80032.0,color:,illinois,4200
+ford,focus,2018,clean vehicle,52240.0,green,north carolina,10900
+ford,max,2019,clean vehicle,34874.0,gray,florida,42300
+ford,door,2014,salvage insurance,119689.0,white,idaho,10500
+ford,max,2019,clean vehicle,37355.0,gray,florida,43400
+ford,door,2016,salvage insurance,100947.0,white,idaho,12500
+ford,escape,2019,clean vehicle,26040.0,white,minnesota,15900
+ford,max,2019,clean vehicle,36638.0,white,florida,42500
+ford,door,2015,salvage insurance,137004.0,white,texas,15000
+ford,edge,2019,clean vehicle,31794.0,blue,florida,24700
+ford,door,2015,salvage insurance,131106.0,white,texas,15500
+ford,expedition,2019,clean vehicle,22013.0,white,minnesota,49000
+ford,door,2017,clean vehicle,42291.0,black,tennessee,29000
+ford,escape,2019,clean vehicle,13155.0,white,florida,16800
+ford,max,2019,clean vehicle,24869.0,red,minnesota,51000
+ford,escape,2019,clean vehicle,18454.0,white,florida,16500
+ford,d,2016,salvage insurance,16694.0,white,texas,10000
+ford,explorer,2019,clean vehicle,28922.0,gray,florida,27900
+ford,edge,2019,clean vehicle,23534.0,gray,florida,23700
+ford,dr,2012,salvage insurance,24581.0,color:,california,20000
+ford,max,2019,clean vehicle,35646.0,gray,florida,45600
+ford,cab,2012,salvage insurance,129873.0,white,virginia,6000
+ford,escape,2019,clean vehicle,28669.0,black,florida,15600
+ford,explorer,2017,clean vehicle,32454.0,red,michigan,25000
+ford,explorer,2019,clean vehicle,21800.0,black,florida,28500
+ford,cutaway,2014,salvage insurance,231769.0,yellow,florida,8000
+ford,doors,2016,clean vehicle,23796.0,black,connecticut,19990
+ford,max,2019,clean vehicle,42506.0,gray,florida,34400
+ford,doors,2016,clean vehicle,6249.0,shadow black,connecticut,30999
+ford,expedition,2019,clean vehicle,47496.0,black,florida,41000
+ford,doors,2016,clean vehicle,10700.0,gray,massachusetts,27999
+ford,expedition,2019,clean vehicle,39604.0,black,florida,42000
+ford,cutaway,2013,salvage insurance,250831.0,color:,new jersey,8000
+ford,doors,2016,clean vehicle,7275.0,triple yellow tri-coat,connecticut,29795
+ford,edge,2019,clean vehicle,8806.0,black,florida,24700
+ford,doors,2016,clean vehicle,105115.0,gray,new jersey,13995
+ford,door,2015,clean vehicle,57340.0,silver,florida,2900
+ford,max,2019,clean vehicle,36167.0,white,florida,35400
+ford,doors,2016,clean vehicle,44941.0,shadow black,new york,24549
+ford,door,2014,clean vehicle,53102.0,silver,florida,8900
+ford,escape,2019,clean vehicle,26637.0,black,florida,15800
+ford,doors,2016,clean vehicle,45814.0,black,new york,18500
+ford,f-150,2019,clean vehicle,17310.0,red,minnesota,32000
+ford,explorer,2019,clean vehicle,24116.0,gray,florida,28300
+ford,d,2019,salvage insurance,14128.0,blue,florida,10500
+ford,doors,2016,clean vehicle,49882.0,green,new york,24970
+ford,fusion,2019,clean vehicle,38964.0,blue,minnesota,13800
+ford,door,2012,clean vehicle,102705.0,white,florida,2580
+ford,f-150,2019,clean vehicle,71.0,white,florida,59975
+ford,door,2012,salvage insurance,98620.0,white,indiana,2500
+ford,doors,2016,clean vehicle,15825.0,triple yellow tri-coat,massachusetts,28990
+ford,max,2019,clean vehicle,29499.0,blue,minnesota,50000
+ford,door,2014,clean vehicle,100255.0,white,kentucky,33800
+ford,f-150,2019,clean vehicle,174.0,black,florida,59975
+ford,door,2013,salvage insurance,167552.0,gray,minnesota,2500
+ford,doors,2016,clean vehicle,16956.0,magnetic metallic,new jersey,46999
+ford,fusion,2019,clean vehicle,36896.0,black,minnesota,16700
+ford,door,2013,clean vehicle,77281.0,white,kentucky,34700
+ford,f-150,2019,clean vehicle,24795.0,black,florida,28900
+ford,doors,2016,clean vehicle,16771.0,ruby red metallic tinted clearcoat,new jersey,30800
+ford,f-150,2019,clean vehicle,28692.0,silver,minnesota,27100
+ford,door,2012,clean vehicle,113821.0,black,louisiana,13388
+ford,f-150,2019,clean vehicle,19793.0,blue,florida,26000
+ford,doors,2016,clean vehicle,27940.0,shadow black,massachusetts,17900
+ford,flex,2019,clean vehicle,24987.0,black,minnesota,23400
+ford,mustang,2016,clean vehicle,18367.0,blue,illinois,29800
+ford,flex,2019,clean vehicle,14109.0,gray,florida,23700
+ford,door,2012,salvage insurance,158781.0,black,illinois,1725
+ford,doors,2016,clean vehicle,27369.0,black,new jersey,33995
+ford,flex,2019,clean vehicle,30208.0,white,minnesota,23500
+ford,explorer,2019,clean vehicle,24024.0,black,florida,32500
+ford,door,2016,salvage insurance,64999.0,blue,mississippi,2500
+ford,f-150,2019,clean vehicle,8404.0,black,minnesota,39000
+ford,focus,2018,clean vehicle,8884.0,gray,massachusetts,11000
+ford,explorer,2019,clean vehicle,24126.0,black,florida,32500
+ford,door,2012,salvage insurance,129659.0,black,mississippi,800
+ford,f-150,2019,clean vehicle,31713.0,black,minnesota,26900
+ford,edge,2016,clean vehicle,109996.0,gray,new york,11200
+ford,doors,2018,clean vehicle,6821.0,red,new york,21000
+ford,f-150,2019,clean vehicle,17867.0,red,minnesota,32000
+ford,door,2016,clean vehicle,110253.0,black,connecticut,7300
+ford,escape,2018,clean vehicle,39364.0,black,missouri,12800
+ford,doors,2018,clean vehicle,4018.0,blue,massachusetts,24190
+ford,f-150,2019,clean vehicle,21054.0,red,minnesota,29100
+ford,door,2017,clean vehicle,48309.0,red,massachusetts,29000
+ford,door,2016,clean vehicle,68666.0,black,new york,17300
+ford,doors,2018,clean vehicle,34071.0,ingot silver metallic,new jersey,19888
+ford,f-150,2019,clean vehicle,13600.0,white,minnesota,31000
+ford,door,2017,clean vehicle,44956.0,black,massachusetts,37200
+ford,door,2016,clean vehicle,72607.0,silver,new jersey,8600
+ford,doors,2018,clean vehicle,33815.0,shadow black,massachusetts,24857
+ford,flex,2019,clean vehicle,31491.0,gray,minnesota,23500
+ford,f-150,2018,clean vehicle,32149.0,white,mississippi,26100
+ford,hybrid,2016,clean vehicle,26654.0,blue,new york,10800
+ford,doors,2018,clean vehicle,36637.0,white,new york,20995
+ford,f-150,2019,clean vehicle,17000.0,white,minnesota,29300
+ford,f-150,2018,clean vehicle,15960.0,gray,mississippi,33100
+ford,door,2016,clean vehicle,40774.0,gray,new jersey,13800
+ford,doors,2018,clean vehicle,40338.0,black,new york,19498
+ford,fusion,2019,clean vehicle,40505.0,gray,minnesota,14900
+ford,door,2016,clean vehicle,30735.0,black,massachusetts,8700
+ford,mustang,2019,clean vehicle,33965.0,gray,florida,20600
+ford,door,2018,salvage insurance,7339.0,white,oklahoma,5000
+ford,doors,2018,clean vehicle,42470.0,white,new york,19995
+ford,fusion,2019,clean vehicle,40670.0,silver,minnesota,14900
+ford,door,2016,clean vehicle,41233.0,black,massachusetts,19500
+ford,wagon,2019,clean vehicle,13162.0,white,florida,24500
+ford,fusion,2018,clean vehicle,38744.0,white,california,15000
+ford,doors,2018,clean vehicle,14023.0,black,new york,26985
+ford,f-150,2019,clean vehicle,9741.0,white,minnesota,31000
+ford,explorer,2017,clean vehicle,31017.0,silver,mississippi,24300
+ford,fusion,2019,clean vehicle,37786.0,gray,florida,16800
+ford,mustang,2018,clean vehicle,32415.0,white,california,17200
+ford,doors,2018,clean vehicle,10421.0,ruby red,new york,34995
+ford,wagon,2019,clean vehicle,29305.0,white,minnesota,24300
+ford,explorer,2017,clean vehicle,51309.0,white,mississippi,26400
+ford,fusion,2019,clean vehicle,38001.0,black,florida,16800
+ford,escape,2018,clean vehicle,18849.0,black,california,15500
+ford,doors,2018,clean vehicle,43269.0,silver,new york,19440
+ford,fusion,2019,clean vehicle,36989.0,silver,minnesota,16700
+ford,door,2017,clean vehicle,29320.0,blue,alabama,29000
+ford,hybrid,2019,clean vehicle,34244.0,white,florida,16100
+ford,mustang,2018,clean vehicle,32938.0,white,california,17200
+ford,doors,2018,clean vehicle,40793.0,black,new hampshire,20950
+ford,door,2017,clean vehicle,94741.0,no_color,alabama,46200
+ford,mustang,2019,clean vehicle,25011.0,white,florida,29400
+ford,door,2014,salvage insurance,363810.0,white,montana,2825
+ford,doors,2018,clean vehicle,6881.0,shadow black,new jersey,32999
+ford,door,2014,clean vehicle,80423.0,orange,new jersey,6600
+ford,door,2017,clean vehicle,92405.0,white,alabama,50200
+ford,ranger,2019,clean vehicle,15436.0,white,florida,28300
+ford,door,2017,salvage insurance,104665.0,white,california,12000
+ford,doors,2018,clean vehicle,16194.0,royal crimson metallic tinted clearcoat,new jersey,32999
+ford,door,2014,clean vehicle,48188.0,black,new jersey,12600
+ford,focus,2017,clean vehicle,65164.0,red,alabama,5200
+ford,mustang,2019,clean vehicle,35930.0,black,florida,20500
+ford,door,2012,salvage insurance,167376.0,red,virginia,1200
+ford,doors,2018,clean vehicle,13674.0,kona blue metallic,new jersey,35999
+ford,srw,2019,clean vehicle,9235.0,silver,minnesota,41000
+ford,door,2017,clean vehicle,103002.0,red,mississippi,33100
+ford,ranger,2019,clean vehicle,12836.0,blue,florida,23500
+ford,doors,2015,clean vehicle,137728.0,red,connecticut,18799
+ford,doors,2018,clean vehicle,6921.0,magnetic metallic,new jersey,33999
+ford,srw,2019,clean vehicle,14359.0,white,minnesota,35000
+ford,wagon,2017,clean vehicle,58118.0,white,mississippi,26100
+ford,fusion,2019,clean vehicle,31124.0,white,florida,15400
+ford,doors,2015,clean vehicle,25734.0,color:,new york,25998
+ford,doors,2018,clean vehicle,14059.0,black,new jersey,31831
+ford,srw,2019,clean vehicle,13472.0,black,minnesota,40400
+ford,door,2013,clean vehicle,123983.0,silver,connecticut,15400
+ford,hybrid,2019,clean vehicle,35023.0,gray,florida,13500
+ford,doors,2015,clean vehicle,39509.0,white,new hampshire,25995
+ford,doors,2018,clean vehicle,4512.0,ingot silver metallic,new york,27990
+ford,doors,2015,clean vehicle,51884.0,white,new jersey,23985
+ford,doors,2018,clean vehicle,4181.0,gray,pennsylvania,27995
+ford,doors,2015,clean vehicle,56703.0,oxford white,new york,13995
+ford,doors,2018,clean vehicle,4712.0,ingot silver metallic,pennsylvania,29988
+ford,doors,2015,clean vehicle,102800.0,blue,new jersey,12995
+ford,doors,2018,clean vehicle,7109.0,lightning blue,pennsylvania,21687
+ford,door,2016,clean vehicle,100943.0,white,alabama,25200
+ford,doors,2015,clean vehicle,3915.0,green,new york,29590
+ford,doors,2018,clean vehicle,15550.0,ingot silver,pennsylvania,28999
+ford,doors,2015,clean vehicle,62542.0,magnetic metallic,new jersey,13942
+ford,taurus,2018,clean vehicle,38370.0,silver,utah,15300
+ford,ranger,2020,clean vehicle,671.0,blue,ohio,35400
+ford,door,2016,clean vehicle,61477.0,silver,alabama,32700
+ford,doors,2015,clean vehicle,73891.0,silver,new york,13995
+ford,door,2014,salvage insurance,168805.0,black,michigan,1850
+ford,door,2012,clean vehicle,82564.0,gold,florida,15800
+ford,door,2016,clean vehicle,85649.0,black,mississippi,36000
+ford,doors,2015,clean vehicle,48374.0,white,new york,15495
+ford,door,2012,clean vehicle,11990.0,red,florida,21500
+ford,door,2016,clean vehicle,64111.0,black,alabama,7200
+ford,doors,2015,clean vehicle,28771.0,red,new jersey,17589
+ford,door,2015,clean vehicle,126708.0,white,alabama,31700
+ford,doors,2015,clean vehicle,27165.0,orange,new york,31790
+ford,van,2015,clean vehicle,106546.0,white,mississippi,18100
+ford,doors,2015,clean vehicle,54778.0,white,new jersey,14495
+ford,fusion,2020,clean vehicle,11729.0,white,illinois,15000
+ford,door,2015,clean vehicle,85197.0,black,mississippi,26400
+ford,doors,2015,clean vehicle,19130.0,red,massachusetts,27990
+ford,expedition,2015,clean vehicle,72369.0,white,mississippi,19700
+ford,doors,2015,clean vehicle,59646.0,silver,massachusetts,15300
+ford,door,2014,clean vehicle,68418.0,black,mississippi,22000
+ford,doors,2015,clean vehicle,8400.0,black,new jersey,23999
+ford,doors,2015,clean vehicle,45084.0,gray,new york,16488
+ford,doors,2015,clean vehicle,67037.0,gray,new jersey,12784
+ford,doors,2015,clean vehicle,64135.0,black,new jersey,23400
+ford,door,2017,clean vehicle,72377.0,black,arkansas,9705
+ford,doors,2015,clean vehicle,39367.0,oxford white,new jersey,25999
+ford,doors,2015,clean vehicle,46540.0,black,pennsylvania,34977
+ford,doors,2015,clean vehicle,40677.0,ingot silver metallic,new jersey,19000
+ford,doors,2015,clean vehicle,69438.0,black,new york,15995
+ford,doors,2015,clean vehicle,96246.0,gray,new york,13487
+ford,doors,2015,clean vehicle,69719.0,white,connecticut,18707
+ford,doors,2015,clean vehicle,75933.0,white platinum tri-coat metallic,new york,15290
+ford,doors,2015,clean vehicle,54325.0,black,new york,15600
+ford,expedition,2019,clean vehicle,24902.0,black,illinois,47000
+ford,doors,2015,clean vehicle,31793.0,blue,connecticut,16080
+ford,max,2019,clean vehicle,16505.0,white,illinois,50000
+ford,doors,2015,clean vehicle,74361.0,black,new york,15268
+ford,max,2019,clean vehicle,27868.0,black,illinois,47500
+ford,doors,2015,clean vehicle,34011.0,black,massachusetts,18497
+ford,escape,2019,clean vehicle,19993.0,silver,illinois,10000
+ford,suv,2015,clean vehicle,48115.0,red,pennsylvania,19995
+ford,max,2019,clean vehicle,22543.0,white,illinois,49000
+ford,doors,2015,clean vehicle,67091.0,black,new jersey,17150
+ford,expedition,2019,clean vehicle,28790.0,black,illinois,45000
+ford,doors,2015,clean vehicle,59391.0,guard,new jersey,14295
+ford,max,2019,clean vehicle,18449.0,black,illinois,49000
+ford,doors,2015,clean vehicle,71824.0,magnetic metallic,new york,16190
+ford,expedition,2019,clean vehicle,19304.0,black,illinois,49000
+ford,doors,2015,clean vehicle,39159.0,magnetic metallic,new york,17899
+ford,flex,2019,clean vehicle,18708.0,black,illinois,26000
+ford,doors,2015,clean vehicle,79430.0,magnetic metallic,new jersey,14000
+ford,flex,2019,clean vehicle,12393.0,gray,illinois,15500
+ford,doors,2015,clean vehicle,56329.0,black,new york,16888
+ford,f-150,2019,clean vehicle,12155.0,silver,illinois,28000
+ford,door,2014,clean vehicle,63291.0,blue,arkansas,8305
+ford,doors,2015,clean vehicle,36041.0,white platinum tri-coat metallic,new jersey,21822
+ford,mustang,2019,clean vehicle,25810.0,red,illinois,15500
+ford,door,2015,clean vehicle,130388.0,blue,arkansas,12500
+ford,doors,2015,clean vehicle,23878.0,blue,new york,15995
+ford,transit,2019,clean vehicle,15460.0,white,illinois,16000
+ford,max,2018,clean vehicle,46710.0,white,north carolina,38200
+ford,doors,2015,clean vehicle,65342.0,black,new york,12995
+ford,doors,2015,clean vehicle,64061.0,tuxedo black metallic,massachusetts,14488
+ford,door,2016,clean vehicle,93164.0,white,florida,17500
+ford,doors,2015,clean vehicle,35629.0,blue,massachusetts,21995
+ford,connect,2015,clean vehicle,118483.0,white,florida,8500
+ford,doors,2015,clean vehicle,71573.0,tuxedo black metallic,massachusetts,16593
+ford,door,2017,clean vehicle,33660.0,black,illinois,13000
+ford,doors,2015,clean vehicle,61168.0,blue,pennsylvania,14247
+ford,door,2017,clean vehicle,42241.0,gray,illinois,23500
+ford,doors,2015,clean vehicle,21004.0,oxford white,pennsylvania,16999
+ford,door,2017,clean vehicle,45003.0,red,illinois,25000
+ford,doors,2015,clean vehicle,45278.0,oxford white,new jersey,20159
+ford,door,2017,clean vehicle,1.0,black,illinois,31000
+ford,edge,2018,clean vehicle,24747.0,gray,colorado,22500
+ford,door,2017,clean vehicle,48707.0,black,illinois,29500
+ford,max,2020,clean vehicle,2162.0,no_color,ohio,59900
+ford,f-150,2017,clean vehicle,50874.0,black,illinois,24000
+ford,f-150,2017,clean vehicle,70727.0,black,illinois,20500
+ford,explorer,2019,clean vehicle,29382.0,gray,north carolina,27200
+ford,f-150,2018,clean vehicle,33194.0,white,virginia,24900
+ford,door,2017,clean vehicle,52084.0,white,illinois,24500
+ford,expedition,2018,clean vehicle,51122.0,black,virginia,34000
+ford,door,2017,clean vehicle,40286.0,white,illinois,28000
+ford,f-150,2017,clean vehicle,55420.0,black,illinois,27000
+ford,wagon,2018,clean vehicle,10282.0,black,virginia,34000
+ford,door,2017,clean vehicle,85278.0,white,illinois,42500
+ford,explorer,2018,clean vehicle,7258.0,black,pennsylvania,33000
+ford,escape,2018,clean vehicle,93350.0,black,pennsylvania,10200
+ford,explorer,2019,clean vehicle,37166.0,gray,north carolina,25600
+ford,f-150,2018,clean vehicle,69480.0,white,texas,16300
+ford,door,2016,clean vehicle,34679.0,white,illinois,26500
+ford,f-150,2018,clean vehicle,24151.0,red,pennsylvania,36500
+ford,explorer,2019,clean vehicle,32796.0,white,north carolina,25900
+ford,door,2016,clean vehicle,67979.0,black,illinois,22500
+ford,f-150,2018,clean vehicle,18690.0,white,pennsylvania,29000
+ford,door,2012,salvage insurance,78072.0,white,pennsylvania,825
+ford,door,2016,clean vehicle,54251.0,red,illinois,10500
+ford,f-150,2018,clean vehicle,32262.0,white,pennsylvania,32000
+ford,f-650,2015,clean vehicle,92358.0,white,texas,27700
+ford,door,2015,clean vehicle,90740.0,red,illinois,4000
+ford,f-150,2018,clean vehicle,35225.0,black,pennsylvania,38800
+ford,f-650,2015,clean vehicle,129063.0,white,texas,26200
+ford,wagon,2018,clean vehicle,49985.0,white,wisconsin,19500
+ford,escape,2015,clean vehicle,52340.0,black,illinois,11700
+ford,f-150,2018,clean vehicle,21406.0,black,pennsylvania,34000
+ford,srw,2019,clean vehicle,16619.0,white,florida,38600
+ford,door,2015,clean vehicle,41293.0,black,illinois,21500
+ford,f-150,2018,clean vehicle,37053.0,black,pennsylvania,38500
+ford,f-150,2018,clean vehicle,34532.0,black,pennsylvania,38500
+ford,taurus,2017,clean vehicle,13328.0,blue,missouri,12000
+ford,f-150,2018,clean vehicle,56836.0,off-white,pennsylvania,30500
+ford,door,2016,clean vehicle,48080.0,orange,missouri,11300
+ford,f-150,2018,clean vehicle,12271.0,gray,pennsylvania,29500
+ford,expedition,2014,clean vehicle,97318.0,white,missouri,16100
+ford,f-150,2018,clean vehicle,12717.0,red,pennsylvania,32500
+ford,mustang,2019,clean vehicle,12764.0,black,texas,29000
+ford,f-150,2018,clean vehicle,19951.0,red,pennsylvania,30000
+ford,explorer,2019,clean vehicle,32458.0,white,north carolina,26000
+ford,f-150,2018,clean vehicle,21616.0,gray,pennsylvania,26000
+ford,escape,2019,clean vehicle,17755.0,blue,north carolina,18500
+ford,door,2017,clean vehicle,73846.0,gray,texas,12000
+ford,f-150,2018,clean vehicle,15771.0,blue,pennsylvania,30000
+ford,escape,2019,clean vehicle,29168.0,silver,north carolina,14700
+ford,door,2017,clean vehicle,159182.0,red,texas,25000
+ford,f-150,2018,clean vehicle,15296.0,white,pennsylvania,26550
+ford,explorer,2019,clean vehicle,30476.0,white,north carolina,27000
+ford,door,2016,clean vehicle,131754.0,white,texas,34000
+ford,f-150,2018,clean vehicle,26095.0,gray,pennsylvania,27500
+ford,f-150,2018,clean vehicle,22107.0,gray,pennsylvania,25500
+ford,ecosport,2019,clean vehicle,31207.0,brown,north carolina,13500
+ford,door,2015,clean vehicle,112810.0,gray,texas,4000
+ford,f-150,2018,clean vehicle,19058.0,white,pennsylvania,25700
+ford,door,2015,clean vehicle,109137.0,white,texas,29000
+ford,f-150,2018,clean vehicle,24058.0,black,pennsylvania,30500
+ford,f-150,2018,clean vehicle,6967.0,black,pennsylvania,30000
+ford,door,2014,clean vehicle,118340.0,gray,texas,9000
+ford,f-150,2018,clean vehicle,36145.0,white,pennsylvania,19000
+ford,explorer,2019,clean vehicle,33942.0,silver,north carolina,25800
+ford,f-150,2018,clean vehicle,38868.0,gray,pennsylvania,26500
+ford,explorer,2019,clean vehicle,36190.0,red,north carolina,29300
+ford,fiesta,2018,clean vehicle,37177.0,black,pennsylvania,6300
+ford,explorer,2019,clean vehicle,39267.0,white,north carolina,25400
+ford,f-150,2018,clean vehicle,33350.0,gray,pennsylvania,26000
+ford,focus,2017,clean vehicle,57889.0,black,north carolina,7000
+ford,f-150,2018,clean vehicle,34081.0,red,pennsylvania,25900
+ford,fiesta,2019,clean vehicle,26821.0,gray,north carolina,9700
+ford,f-150,2018,clean vehicle,40577.0,black,pennsylvania,27000
+ford,fiesta,2019,clean vehicle,52355.0,black,north carolina,9100
+ford,f-150,2018,clean vehicle,30620.0,red,pennsylvania,28000
+ford,flex,2019,clean vehicle,22019.0,black,north carolina,25700
+ford,f-150,2018,clean vehicle,36742.0,black,pennsylvania,27500
+ford,fiesta,2019,clean vehicle,32473.0,white,north carolina,9400
+ford,f-150,2018,clean vehicle,43406.0,blue,pennsylvania,25500
+ford,flex,2019,clean vehicle,34696.0,white,north carolina,20500
+ford,f-150,2018,clean vehicle,43519.0,gray,pennsylvania,21500
+ford,hybrid,2019,clean vehicle,37716.0,gray,north carolina,12800
+ford,f-150,2018,clean vehicle,41627.0,white,pennsylvania,23900
+ford,fiesta,2019,clean vehicle,29986.0,gray,north carolina,9400
+ford,f-150,2018,clean vehicle,41496.0,silver,pennsylvania,26900
+ford,flex,2019,clean vehicle,20613.0,gray,north carolina,25500
+ford,f-150,2018,clean vehicle,33475.0,blue,pennsylvania,27000
+ford,fiesta,2019,clean vehicle,32305.0,silver,north carolina,9300
+ford,fusion,2018,clean vehicle,38148.0,black,pennsylvania,14400
+ford,flex,2019,clean vehicle,39976.0,red,north carolina,19000
+ford,fusion,2018,clean vehicle,50513.0,white,pennsylvania,14000
+ford,fusion,2019,clean vehicle,31408.0,gray,north carolina,13600
+ford,transit,2018,clean vehicle,41351.0,white,pennsylvania,19200
+ford,fusion,2019,clean vehicle,32038.0,red,north carolina,13600
+ford,transit,2018,clean vehicle,38279.0,white,pennsylvania,18600
+ford,fusion,2019,clean vehicle,30471.0,red,north carolina,13700
+ford,transit,2018,clean vehicle,41569.0,white,pennsylvania,18200
+ford,fusion,2019,clean vehicle,31142.0,silver,north carolina,13800
+ford,wagon,2018,clean vehicle,31598.0,black,pennsylvania,22000
+ford,fusion,2019,clean vehicle,31380.0,silver,north carolina,13700
+ford,wagon,2018,clean vehicle,22179.0,black,pennsylvania,28000
+ford,fusion,2019,clean vehicle,29266.0,white,north carolina,13800
+ford,transit,2018,clean vehicle,42156.0,white,pennsylvania,18600
+ford,fusion,2019,clean vehicle,30875.0,red,north carolina,13700
+ford,fusion,2019,clean vehicle,30609.0,silver,north carolina,13700
+ford,fusion,2019,clean vehicle,29508.0,silver,north carolina,13800
+ford,hybrid,2019,clean vehicle,12837.0,gray,north carolina,17700
+ford,fusion,2019,clean vehicle,29633.0,white,north carolina,13900
+ford,fusion,2019,clean vehicle,27461.0,no_color,north carolina,13900
+ford,f-650,2018,clean vehicle,74961.0,white,pennsylvania,50500
+ford,fusion,2019,clean vehicle,32154.0,gray,north carolina,13600
+ford,srw,2018,clean vehicle,37245.0,black,pennsylvania,55000
+ford,fusion,2019,clean vehicle,29345.0,white,north carolina,13800
+ford,srw,2018,clean vehicle,25371.0,black,pennsylvania,56000
+ford,fusion,2019,clean vehicle,30054.0,silver,north carolina,13800
+ford,srw,2018,clean vehicle,11173.0,white,pennsylvania,45800
+ford,fusion,2019,clean vehicle,30902.0,no_color,north carolina,13800
+nissan,sentra,2018,clean vehicle,31231.0,silver,north carolina,5500
+nissan,altima,2020,clean vehicle,10728.0,gray,arizona,14400
+nissan,sport,2018,clean vehicle,35374.0,white,florida,11450
+nissan,sport,2018,clean vehicle,36715.0,black,florida,11000
+nissan,sport,2018,clean vehicle,33437.0,red,florida,11450
+nissan,sport,2018,clean vehicle,36788.0,black,florida,11000
+nissan,sport,2018,clean vehicle,35491.0,black,florida,11200
+nissan,sport,2018,clean vehicle,33644.0,black,florida,11400
+nissan,sport,2018,clean vehicle,35831.0,gray,florida,11450
+nissan,sport,2018,clean vehicle,35050.0,gray,florida,11050
+nissan,sport,2018,clean vehicle,34924.0,gray,florida,11400
+nissan,sport,2018,clean vehicle,34962.0,silver,florida,11050
+nissan,sport,2018,clean vehicle,39985.0,gray,florida,10850
+nissan,sport,2018,clean vehicle,38816.0,red,florida,10900
+nissan,sport,2018,clean vehicle,41579.0,red,florida,10450
+nissan,sport,2018,clean vehicle,40455.0,gray,florida,10800
+nissan,sport,2018,clean vehicle,39996.0,white,florida,10850
+nissan,sport,2018,clean vehicle,41077.0,black,florida,10800
+nissan,sport,2018,clean vehicle,39183.0,gray,florida,10850
+nissan,sport,2018,clean vehicle,40478.0,black,florida,10800
+nissan,sport,2018,clean vehicle,38806.0,white,florida,10900
+nissan,sport,2018,clean vehicle,45331.0,blue,florida,10400
+nissan,sport,2018,clean vehicle,43531.0,blue,florida,10500
+nissan,sport,2018,clean vehicle,41033.0,silver,florida,10800
+nissan,sport,2018,clean vehicle,40332.0,gray,florida,10800
+nissan,frontier,2019,clean vehicle,22319.0,silver,arizona,11200
+nissan,rogue,2019,clean vehicle,22305.0,blue,arizona,11100
+nissan,maxima,2019,clean vehicle,36996.0,black,arizona,12200
+nissan,sentra,2019,clean vehicle,1.0,black,arizona,4000
+nissan,versa,2019,clean vehicle,27611.0,gray,arizona,9000
+nissan,rogue,2019,clean vehicle,26516.0,silver,arizona,14900
+nissan,rogue,2019,clean vehicle,31397.0,blue,arizona,4600
+nissan,versa,2019,clean vehicle,18300.0,red,arizona,6400
+nissan,note,2019,clean vehicle,26743.0,white,arizona,10400
+nissan,versa,2019,clean vehicle,15832.0,black,arizona,7800
+nissan,sport,2019,clean vehicle,31939.0,white,arizona,12300
+nissan,sentra,2019,clean vehicle,31037.0,gray,arizona,10900
+nissan,versa,2019,clean vehicle,22521.0,white,arizona,8500
+nissan,versa,2019,clean vehicle,31335.0,white,arizona,7300
+nissan,versa,2019,clean vehicle,28315.0,red,arizona,5900
+nissan,armada,2017,clean vehicle,83437.0,white,texas,20000
+nissan,altima,2018,clean vehicle,42250.0,blue,wisconsin,11200
+nissan,rogue,2018,clean vehicle,45732.0,black,wisconsin,14400
+nissan,pathfinder,2018,clean vehicle,49185.0,white,wisconsin,16500
+nissan,rogue,2017,clean vehicle,45826.0,silver,wisconsin,13400
+nissan,door,2017,clean vehicle,36844.0,white,wisconsin,12500
+nissan,door,2013,clean vehicle,104343.0,gray,illinois,6500
+nissan,pathfinder,2018,clean vehicle,34138.0,white,florida,19800
+nissan,versa,2018,clean vehicle,34761.0,white,florida,8800
+nissan,rogue,2018,clean vehicle,32656.0,blue,florida,12800
+nissan,versa,2018,clean vehicle,34837.0,red,florida,8800
+nissan,altima,2019,clean vehicle,30099.0,white,missouri,3500
+nissan,sentra,2018,clean vehicle,37088.0,gray,missouri,750
+nissan,door,2017,clean vehicle,41729.0,blue,florida,10800
+nissan,titan,2017,clean vehicle,17195.0,white,texas,22300
+nissan,sedan,2018,clean vehicle,43064.0,gray,california,8300
+nissan,sedan,2018,clean vehicle,47510.0,gray,california,8300
+nissan,sedan,2018,clean vehicle,52571.0,gray,california,8000
+nissan,frontier,2018,clean vehicle,12129.0,black,alabama,15200
+nissan,sedan,2017,clean vehicle,62280.0,white,california,6700
+nissan,door,2017,clean vehicle,74859.0,gray,connecticut,7500
+nissan,door,2017,clean vehicle,59508.0,black,connecticut,10500
+nissan,juke,2017,clean vehicle,58529.0,white,connecticut,8400
+nissan,door,2015,salvage insurance,24396.0,black,florida,7000
+nissan,armada,2020,clean vehicle,10317.0,black,california,25500
+nissan,door,2017,salvage insurance,37619.0,black,florida,4100
+nissan,altima,2020,clean vehicle,15160.0,black,california,13900
+nissan,door,2015,salvage insurance,91898.0,black,florida,1900
+nissan,pathfinder,2017,clean vehicle,31198.0,white,connecticut,14700
+nissan,door,2013,salvage insurance,144015.0,blue,ohio,1900
+nissan,titan,2017,clean vehicle,15621.0,white,missouri,18800
+nissan,versa,2018,clean vehicle,54815.0,red,california,7800
+nissan,door,2016,clean vehicle,53011.0,red,louisiana,13500
+nissan,versa,2018,clean vehicle,56255.0,silver,california,8000
+nissan,door,2013,clean vehicle,100225.0,gray,louisiana,3300
+nissan,sentra,2017,clean vehicle,54117.0,silver,connecticut,7200
+nissan,door,2017,clean vehicle,54119.0,gray,california,8000
+nissan,door,2012,salvage insurance,162176.0,black,indiana,1280
+nissan,rogue,2018,clean vehicle,37655.0,white,florida,14000
+nissan,door,2015,clean vehicle,101178.0,gray,california,3500
+nissan,door,2012,salvage insurance,206142.0,silver,kansas,600
+nissan,sport,2018,clean vehicle,43187.0,gray,california,12500
+nissan,door,2013,salvage insurance,105590.0,gray,texas,5800
+nissan,versa,2018,clean vehicle,53903.0,gray,california,8000
+nissan,door,2015,salvage insurance,73382.0,tan,texas,2200
+nissan,versa,2018,clean vehicle,48977.0,white,california,8300
+nissan,door,2016,clean vehicle,77504.0,blue,missouri,7500
+nissan,versa,2018,clean vehicle,50871.0,blue,california,8000
+nissan,door,2012,clean vehicle,107734.0,silver,missouri,3500
+nissan,versa,2018,clean vehicle,53098.0,white,california,8000
+nissan,door,2012,salvage insurance,159990.0,burgundy,oklahoma,2000
+nissan,versa,2018,clean vehicle,51552.0,red,california,7800
+nissan,versa,2018,clean vehicle,54692.0,white,california,8000
+nissan,frontier,2019,clean vehicle,18611.0,white,california,18500
+nissan,versa,2018,clean vehicle,51654.0,blue,california,8000
+nissan,frontier,2019,clean vehicle,24046.0,white,california,18300
+nissan,versa,2018,clean vehicle,65184.0,red,california,7500
+nissan,armada,2019,clean vehicle,37398.0,blue,california,29800
+nissan,rogue,2020,clean vehicle,19597.0,silver,south carolina,21100
+nissan,rogue,2019,clean vehicle,34122.0,silver,california,16200
+nissan,doors,2015,clean vehicle,43651.0,super black,vermont,6998
+nissan,rogue,2020,clean vehicle,15387.0,gray,pennsylvania,14700
+nissan,cargo,2020,clean vehicle,264.0,black,california,19000
+nissan,door,2016,clean vehicle,58126.0,black,texas,7500
+nissan,doors,2015,clean vehicle,62921.0,cayenne red,vermont,7998
+nissan,doors,2015,clean vehicle,43279.0,super black,massachusetts,10999
+nissan,door,2012,salvage insurance,117844.0,gray,north carolina,2900
+nissan,doors,2015,clean vehicle,45043.0,morningsky blue,new hampshire,8495
+nissan,murano,2016,clean vehicle,42837.0,gray,alabama,19925
+nissan,sentra,2018,clean vehicle,42782.0,black,new jersey,9500
+nissan,doors,2015,clean vehicle,24629.0,pearl white,massachusetts,12750
+nissan,door,2015,clean vehicle,35902.0,blue,alabama,22800
+nissan,doors,2015,clean vehicle,12840.0,glacier white,rhode island,11621
+nissan,doors,2015,clean vehicle,63933.0,cayenne red,new hampshire,11590
+nissan,door,2012,clean vehicle,100079.0,black,alabama,4700
+nissan,doors,2015,clean vehicle,37953.0,super black,new york,11390
+nissan,rogue,2017,clean vehicle,8677.0,blue,tennessee,14500
+nissan,rogue,2020,clean vehicle,11583.0,blue,ohio,12000
+nissan,altima,2020,clean vehicle,14320.0,blue,ohio,15000
+nissan,door,2016,clean vehicle,19723.0,black,georgia,7500
+nissan,armada,2018,clean vehicle,29554.0,gray,pennsylvania,28000
+nissan,maxima,2018,clean vehicle,39309.0,black,pennsylvania,17500
+nissan,maxima,2018,clean vehicle,34951.0,silver,pennsylvania,18000
+nissan,sport,2018,clean vehicle,35870.0,black,pennsylvania,13200
+nissan,altima,2018,clean vehicle,44423.0,gray,texas,17000
+nissan,xterra,2012,clean vehicle,92982.0,black,georgia,6700
+nissan,murano,2018,clean vehicle,36844.0,white,texas,23300
+nissan,titan,2018,clean vehicle,33605.0,white,new mexico,26800
+nissan,sport,2018,clean vehicle,28009.0,black,tennessee,18200
+nissan,rogue,2018,clean vehicle,41366.0,silver,virginia,18700
+nissan,door,2016,clean vehicle,98354.0,red,new jersey,12900
+nissan,rogue,2018,clean vehicle,39598.0,no_color,virginia,16000
+nissan,rogue,2020,clean vehicle,21009.0,black,minnesota,19400
+nissan,sentra,2018,clean vehicle,28880.0,silver,tennessee,10900
+nissan,sport,2018,clean vehicle,28626.0,black,virginia,15800
+nissan,rogue,2020,clean vehicle,14850.0,silver,minnesota,19800
+nissan,rogue,2018,clean vehicle,41096.0,black,virginia,19000
+nissan,rogue,2020,clean vehicle,12748.0,black,minnesota,18000
+nissan,rogue,2020,clean vehicle,14531.0,blue,minnesota,19800
+nissan,rogue,2020,clean vehicle,15931.0,black,minnesota,19700
+nissan,rogue,2020,clean vehicle,10875.0,blue,minnesota,20100
+nissan,frontier,2019,clean vehicle,31172.0,silver,minnesota,19700
+nissan,frontier,2019,clean vehicle,16248.0,white,minnesota,23400
+nissan,frontier,2019,clean vehicle,18137.0,black,minnesota,23300
+nissan,altima,2019,clean vehicle,25664.0,black,minnesota,17500
+nissan,altima,2019,clean vehicle,31026.0,black,minnesota,17100
+nissan,altima,2019,clean vehicle,41287.0,silver,minnesota,15800
+nissan,altima,2019,clean vehicle,43612.0,black,minnesota,13600
+nissan,altima,2019,clean vehicle,29545.0,black,minnesota,14400
+nissan,frontier,2019,clean vehicle,24303.0,silver,minnesota,19800
+nissan,altima,2019,clean vehicle,29661.0,gray,minnesota,17200
+nissan,frontier,2019,clean vehicle,18857.0,silver,minnesota,20300
+nissan,frontier,2019,clean vehicle,14470.0,gray,minnesota,20500
+nissan,altima,2019,clean vehicle,42364.0,silver,minnesota,16500
+nissan,altima,2019,clean vehicle,37108.0,black,minnesota,16000
+nissan,altima,2019,clean vehicle,26432.0,blue,minnesota,14600
+nissan,rogue,2019,clean vehicle,24174.0,white,minnesota,16300
+nissan,sport,2019,clean vehicle,30756.0,silver,minnesota,15400
+nissan,rogue,2019,clean vehicle,32473.0,blue,minnesota,15800
+nissan,sport,2019,clean vehicle,22947.0,blue,minnesota,15800
+nissan,murano,2018,clean vehicle,17127.0,white,georgia,21400
+nissan,kicks,2019,clean vehicle,20793.0,gray,minnesota,15300
+nissan,pathfinder,2019,clean vehicle,32519.0,black,minnesota,20100
+nissan,sentra,2019,clean vehicle,26930.0,gray,minnesota,11300
+nissan,sentra,2019,clean vehicle,40839.0,black,minnesota,10700
+nissan,rogue,2018,clean vehicle,44732.0,no_color,south carolina,16000
+nissan,rogue,2019,clean vehicle,19292.0,white,minnesota,16600
+nissan,sport,2019,clean vehicle,24155.0,gray,minnesota,15800
+nissan,sentra,2019,clean vehicle,33369.0,black,minnesota,11600
+nissan,rogue,2017,clean vehicle,28918.0,red,virginia,15000
+nissan,rogue,2019,clean vehicle,21623.0,blue,minnesota,17600
+nissan,xd,2017,clean vehicle,16224.0,white,virginia,36300
+nissan,sport,2019,clean vehicle,26406.0,silver,minnesota,15600
+nissan,rogue,2017,clean vehicle,27790.0,green,virginia,14000
+nissan,rogue,2019,clean vehicle,19182.0,black,minnesota,16600
+nissan,sentra,2017,clean vehicle,11837.0,gray,tennessee,12600
+nissan,pathfinder,2019,clean vehicle,21774.0,black,minnesota,20900
+nissan,door,2017,clean vehicle,17738.0,black,tennessee,12700
+nissan,sport,2019,clean vehicle,27206.0,white,minnesota,15600
+nissan,rogue,2019,clean vehicle,20508.0,silver,minnesota,18900
+nissan,sport,2019,clean vehicle,24987.0,blue,minnesota,15700
+nissan,pathfinder,2019,clean vehicle,21273.0,gray,minnesota,21900
+nissan,pathfinder,2019,clean vehicle,23863.0,black,minnesota,21700
+nissan,rogue,2016,clean vehicle,31566.0,gray,virginia,14600
+nissan,sentra,2019,clean vehicle,25261.0,gray,minnesota,12000
+nissan,pathfinder,2019,clean vehicle,20628.0,silver,minnesota,21000
+nissan,door,2017,clean vehicle,48765.0,blue,pennsylvania,12500
+nissan,rogue,2019,clean vehicle,30645.0,silver,minnesota,15900
+nissan,door,2017,clean vehicle,60158.0,red,pennsylvania,11800
+nissan,versa,2019,clean vehicle,39985.0,blue,minnesota,9900
+nissan,sentra,2018,clean vehicle,39208.0,black,minnesota,10600
+nissan,sentra,2018,clean vehicle,45080.0,black,minnesota,10100
+nissan,sport,2018,clean vehicle,39247.0,gray,minnesota,13300
+nissan,sentra,2018,clean vehicle,46382.0,white,minnesota,10100
+nissan,sentra,2018,clean vehicle,39893.0,black,minnesota,10300
+nissan,sentra,2018,clean vehicle,41203.0,gray,minnesota,10300
+nissan,sentra,2018,clean vehicle,40648.0,blue,minnesota,10300
+nissan,murano,2018,clean vehicle,31551.0,gray,minnesota,24000
+nissan,sentra,2018,clean vehicle,38761.0,gray,minnesota,10400
+nissan,sentra,2018,clean vehicle,42838.0,gray,minnesota,10200
+nissan,versa,2018,clean vehicle,41557.0,blue,minnesota,9500
+nissan,sentra,2018,clean vehicle,41136.0,black,minnesota,10500
+nissan,sentra,2018,clean vehicle,41141.0,silver,minnesota,10500
+nissan,door,2016,clean vehicle,115716.0,blue,pennsylvania,3500
+nissan,versa,2018,clean vehicle,52260.0,black,minnesota,9300
+nissan,rogue,2016,clean vehicle,22041.0,silver,pennsylvania,14100
+nissan,door,2012,salvage insurance,161836.0,black,tennessee,2425
+nissan,door,2012,salvage insurance,83720.0,silver,tennessee,925
+nissan,rogue,2016,clean vehicle,37605.0,black,pennsylvania,11000
+nissan,rogue,2016,clean vehicle,63738.0,green,pennsylvania,11000
+nissan,door,2013,salvage insurance,155704.0,silver,tennessee,2100
+nissan,door,2012,salvage insurance,234792.0,black,florida,800
+nissan,pathfinder,2018,clean vehicle,24143.0,silver,south carolina,20400
+nissan,door,2017,salvage insurance,1.0,red,north carolina,375
+nissan,door,2015,clean vehicle,132655.0,beige,pennsylvania,3000
+nissan,rogue,2017,clean vehicle,28079.0,gray,south carolina,15100
+nissan,door,2015,salvage insurance,74906.0,silver,north carolina,4000
+nissan,door,2017,clean vehicle,53155.0,gray,south carolina,19500
+nissan,titan,2017,clean vehicle,94258.0,gray,south carolina,22600
+nissan,door,2014,clean vehicle,65620.0,white,pennsylvania,6500
+nissan,door,2012,clean vehicle,92878.0,gray,pennsylvania,11800
+nissan,pathfinder,2017,clean vehicle,25918.0,white,missouri,20500
+nissan,rogue,2018,clean vehicle,37830.0,black,ohio,14200
+nissan,frontier,2018,clean vehicle,13875.0,white,ohio,22000
+nissan,frontier,2018,clean vehicle,6024.0,silver,ohio,16200
+nissan,door,2016,salvage insurance,76789.0,gray,texas,4800
+nissan,sport,2018,clean vehicle,30409.0,black,ohio,16000
+nissan,sport,2018,clean vehicle,44864.0,gray,ohio,14300
+nissan,pathfinder,2019,clean vehicle,42397.0,silver,florida,16800
+nissan,sentra,2018,clean vehicle,16778.0,gray,ohio,11900
+nissan,door,2015,salvage insurance,99767.0,gray,south carolina,3000
+nissan,rogue,2019,clean vehicle,34692.0,gray,florida,15000
+nissan,rogue,2019,clean vehicle,30721.0,gray,florida,15200
+nissan,door,2017,clean vehicle,53376.0,black,ohio,18000
+nissan,nvp,2016,clean vehicle,21282.0,white,ohio,22700
+nissan,door,2015,clean vehicle,81699.0,blue,texas,3800
+nissan,door,2018,salvage insurance,33048.0,black,connecticut,5475
+nissan,sentra,2018,clean vehicle,10372.0,blue,illinois,11400
+nissan,pathfinder,2018,clean vehicle,8889.0,silver,illinois,28100
+nissan,sentra,2017,clean vehicle,127780.0,gray,illinois,3500
+nissan,murano,2016,clean vehicle,59640.0,orange,illinois,15200
+nissan,door,2015,salvage insurance,83975.0,blue,california,1950
+nissan,rogue,2016,clean vehicle,46178.0,black,illinois,13400
+nissan,altima,2018,clean vehicle,34460.0,gray,florida,12500
+nissan,pathfinder,2018,clean vehicle,30594.0,black,florida,16500
+nissan,pathfinder,2018,clean vehicle,39817.0,silver,florida,16500
+nissan,pathfinder,2018,clean vehicle,40419.0,black,florida,16500
+nissan,rogue,2018,clean vehicle,35493.0,black,florida,13900
+nissan,rogue,2018,clean vehicle,37073.0,gray,florida,13900
+nissan,door,2013,salvage insurance,98384.0,black,maryland,1500
+nissan,pathfinder,2018,clean vehicle,34640.0,white,florida,16500
+nissan,rogue,2018,clean vehicle,38760.0,white,florida,13900
+nissan,pathfinder,2018,clean vehicle,34841.0,black,florida,16500
+nissan,rogue,2018,clean vehicle,35065.0,gray,florida,13900
+nissan,altima,2018,clean vehicle,37741.0,black,florida,12400
+nissan,altima,2018,clean vehicle,27488.0,gray,florida,13000
+nissan,pathfinder,2018,clean vehicle,37452.0,gray,florida,16500
+nissan,rogue,2018,clean vehicle,39797.0,black,florida,13900
+nissan,pathfinder,2018,clean vehicle,36714.0,black,florida,16500
+nissan,rogue,2018,clean vehicle,36207.0,black,florida,13900
+nissan,rogue,2018,clean vehicle,38563.0,black,florida,13900
+nissan,rogue,2018,clean vehicle,39885.0,silver,florida,13900
+nissan,altima,2018,clean vehicle,41852.0,silver,florida,12100
+nissan,pathfinder,2018,clean vehicle,39454.0,silver,florida,16500
+nissan,pathfinder,2018,clean vehicle,40203.0,blue,florida,16500
+nissan,rogue,2018,clean vehicle,34547.0,white,florida,13900
+nissan,door,2015,clean vehicle,75858.0,silver,illinois,3700
+nissan,pathfinder,2019,clean vehicle,31123.0,white,north carolina,18800
+nissan,versa,2018,clean vehicle,33808.0,black,florida,9200
+nissan,titan,2019,clean vehicle,30599.0,black,north carolina,30100
+nissan,versa,2018,clean vehicle,33931.0,black,florida,9200
+nissan,sentra,2019,clean vehicle,40359.0,black,north carolina,11100
+nissan,rogue,2018,clean vehicle,44313.0,white,florida,13900
+nissan,versa,2018,clean vehicle,33078.0,black,florida,9100
+nissan,frontier,2019,clean vehicle,24320.0,black,illinois,22800
+nissan,rogue,2018,clean vehicle,42502.0,black,florida,13900
+nissan,altima,2019,clean vehicle,33497.0,gray,california,12600
+nissan,versa,2018,clean vehicle,39577.0,silver,florida,9200
+nissan,altima,2019,clean vehicle,36974.0,gray,california,12100
+nissan,versa,2018,clean vehicle,41220.0,black,florida,9200
+nissan,frontier,2019,clean vehicle,1.0,silver,california,2300
+nissan,rogue,2018,clean vehicle,41539.0,black,florida,13900
+nissan,sentra,2019,clean vehicle,19646.0,black,california,9500
+nissan,rogue,2018,clean vehicle,39924.0,white,florida,13900
+nissan,note,2019,clean vehicle,33279.0,red,california,1700
+nissan,rogue,2018,clean vehicle,40259.0,gray,florida,13900
+nissan,sentra,2019,clean vehicle,25264.0,blue,california,10400
+nissan,versa,2018,clean vehicle,35677.0,black,florida,9200
+nissan,versa,2019,clean vehicle,35511.0,black,california,7400
+nissan,versa,2018,clean vehicle,33027.0,black,florida,9200
+nissan,versa,2019,clean vehicle,23609.0,red,california,7800
+nissan,versa,2018,clean vehicle,34553.0,silver,florida,9200
+nissan,versa,2018,clean vehicle,31594.0,silver,florida,9200
+nissan,versa,2018,clean vehicle,32557.0,black,florida,9200
+nissan,versa,2018,clean vehicle,31371.0,silver,florida,9200
